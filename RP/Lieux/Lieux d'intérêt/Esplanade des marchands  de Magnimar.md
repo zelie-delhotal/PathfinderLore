@@ -1,0 +1,1 @@
+Place située près de la sortie Nord-Est de [[Magnimar]] d'où partent la majorité des caravanes de marchands.

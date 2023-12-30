@@ -1,0 +1,1 @@
+Grand lac de Varisie entre la [[Forêt de Sanos]] et le [[Mur du marais]]. Il est formé par la jonction de la [[Yondabakari]] et de la [[Rivière Crâne]].

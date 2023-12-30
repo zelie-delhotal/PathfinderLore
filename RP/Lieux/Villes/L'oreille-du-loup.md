@@ -1,0 +1,1 @@
+Petit village situé à l'embouchure du [[Charbonneux]] sur le [[Lac des Braises]]

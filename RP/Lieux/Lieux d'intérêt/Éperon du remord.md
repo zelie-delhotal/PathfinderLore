@@ -1,0 +1,3 @@
+Gouffre creusé dans des temps immémoriaux par des géants et des dragons dans le [[plateau de Storval]]
+
+Même les géants sauvages qui dominent le nord du plateau de Storval évitent l’éperon du Remord, une excavation qui s’enfonce toujours plus loin dans les âges passés. Elle a été creusée par la griffe des dragons et à la sueur du front des géants. Pendant des siècles, l’endroit a été oublié et c’est seulement depuis peu qu’on a découvert que le site était un réseau de catacombes thassiloniennes.

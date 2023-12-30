@@ -1,0 +1,1 @@
+Les vallons herbeux des collines de Curchain abritent des tribus de Shoantis relativement pacifiques, de grands troupeaux d’aurochs et quelques familles de pionniers superstitieux. Les voyageurs qui traversent la région affirment souvent que certaines collines se ressemblent beaucoup trop et trahissent une origine artificielle

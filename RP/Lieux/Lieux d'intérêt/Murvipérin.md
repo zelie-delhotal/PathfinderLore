@@ -1,0 +1,1 @@
+Chateau vraisemblablement abandonné sur les rives du [[Lac des Braises]]

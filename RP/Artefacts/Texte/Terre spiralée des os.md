@@ -1,0 +1,1 @@
+Texte sacré du clergé de [[Pharasma]]

@@ -1,0 +1,2 @@
+Cité-état de [[Varisie]] situé sur la [[Yondabakari]] au niveau des [[Escaliers de Storval (Falaise)]]
+Ancienne cité thassilonienne, son architecture reste un mystère : Il s'agit d'un gigantesque hexagone de pierre au sommet duquel sont perchées des tours.

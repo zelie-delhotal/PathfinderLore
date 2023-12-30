@@ -1,0 +1,2 @@
+Grandes plaines où sont élevés les meilleures montures d'[[Avistan]] par les [[Seigneur des Chevaux]].
+Les seigneurs des chevaux des hautes-terres de Vélashu sont réputés être les meilleurs éleveurs de chevaux de Varisie. Ils sillonnent leur domaine sur leurs grands destriers et protègent les terres méridionales sans recevoir le moindre remerciement en retour. Ils se rendent parfois jusqu’à Port-Énigme ou au- delà pour vendre leurs magnifiques chevaux à prix d’or.

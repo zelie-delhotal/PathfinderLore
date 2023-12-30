@@ -1,0 +1,1 @@
+Baslwief est l’une des plus grandes villes minières de la région de Korvosa. Ses habitants extraient du fer, du cuivre et des métaux rares des contreforts des montagnes de Mur du marais et les exportent en aval par bateau. En plus des prospecteurs humains, la ville abrite une grande population halfeline qui aime beaucoup l’esthétique de ce village frontalier.

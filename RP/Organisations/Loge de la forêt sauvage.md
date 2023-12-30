@@ -1,0 +1,2 @@
+Organisation druidique de la [[Forêt Verduran]], rassemblant tous les druides de la région une fois par an sur l'[[Île d'Arenway]].
+Dispose de la forêt en semi-autonomie depuis le [[Traité de la forêt sauvage]].

@@ -1,0 +1,2 @@
+Golfe de l'[[Océan Arcadien]] composant la majorité de la côte Est de la [[Varisie]]
+Quand l’empire thassilonien s’est effondré il y a 10 000 ans, une grande partie de l’ouest de la Varisie s’est enfoncée sous les flots, devenant ce qu’on appelle maintenant le golfe de Varisie. Des nations perdues sous les vagues, il ne reste que la [[montagne Creuse]] et les restes de l’Irarche de Magnimar mais les gens qui gagnent leur vie en explorant les fonds marins trouvent là quantité de villes en ruine et d’antiques reliques d’une taille gigantesque.

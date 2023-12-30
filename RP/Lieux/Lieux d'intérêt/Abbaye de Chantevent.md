@@ -1,0 +1,8 @@
+Située au nord de [[Pointesable]], sur le [[Golfe de Varisie]]
+Le vaste édifice en grès de Chantevent a été créé par des moines pacifistes érudits qui désiraient un forum d’échange pour les discussions œcuméniques. Les hautes arches et les immenses tours de l’abbaye dominent la mer depuis la falaise, ses vitraux brillent au soleil et les tunnels qui courent dans ses murs et ses fondations transforment le vent en une musique qui rappelle celle d’un orgue. Autrefois, les clergés de toutes les religions majeures de Varisie, bonnes comme mauvaises, se rassemblaient ici pour résoudre leurs conflits et chercher à atteindre les objectifs de leurs divinités par la diplomatie. Pourtant, depuis la mort d’Aroden, plusieurs religions ont abandonné les lieux et renié des années de coopération et de prophéties mises en commun. L’abbaye est une véritable merveille architecturale mais l’Abbesse masquée et ses plus proches conseillers savent qu’elle est construite sur les ruines d’une structure bien plus ancienne
+
+Avec ses vitraux qui laissent passer la lumière du soleil et ses tunnels dans les murs et les fondations qui transforment les vents en musique, l'abbaye de Chantevent est une merveille d'architecture. Elle se compose de tours et d'arches que l'on voit se démarquer de la côte.  
+  
+L'abbaye de Chantevent fut fondée par des moines pacifistes et des érudits pour servir de lieu de discussion entre les clergés des principales divinités de la Varisie (bonnes ou mauvaises). Ce lieu permettait de résoudre certains conflits sans les voir dégénérer. Cependant, avec la mort d'[[Aroden]], de nombreux clergés ont abandonné l'abbaye et ses débats.  
+  
+L'abbaye de Chantevent est actuellement dirigée par l'abbesse Masquée et ses conseillers.
