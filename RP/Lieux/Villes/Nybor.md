@@ -1,2 +1,3 @@
 Petit village de pêcheurs et d'agriculteurs à la pointe sud du [[Lac des Braises]].
 Beaucoup de gnomes et de métis.
+Cette paisible communauté agricole est renommée pour sa tolérance raciale. De toute la Varisie, c’est elle qui regroupe la plus forte concentration de sang- mêlé et elle encourage fortement les mariages interraciaux. La ville déclenche souvent l’ire des sectes puritaines mais bon nombre de jeunes nobles magnimariennes sont discrètement envoyées à Nybor par bateau quand une romance illicite débouche sur une grossesse.

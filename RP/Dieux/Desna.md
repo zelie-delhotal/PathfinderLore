@@ -1,1 +1,1 @@
-Déesse des étoiles
+Déesse des étoiles, des voyageurs et des rêves

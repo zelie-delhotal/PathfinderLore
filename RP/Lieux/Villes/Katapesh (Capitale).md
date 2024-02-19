@@ -1,1 +1,1 @@
-Capitale de [[Katapesh]]
+Capitale de [[RP/Lieux/Régions/Katapesh]]

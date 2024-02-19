@@ -1,0 +1,1 @@
+Au sud du [[Yondabakari]], le paysage devient un entrelacs suant de marais spongieux et de mangroves impénétrables, de bourbiers et d’étangs, capables d’engloutir un homme sans laisser de trace. En plus de ses dangers naturels, le marais du Mush est réputé pour ses vicieux bourbiérins, ses géants du marais et ses traqueurs sans visage

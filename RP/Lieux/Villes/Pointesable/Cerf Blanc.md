@@ -1,0 +1,1 @@
+Auberge située au nord est de [[Pointesable]] dans la rue de l'église (3 sur le plan)

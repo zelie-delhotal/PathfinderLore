@@ -1,0 +1,1 @@
+Accord passé entre [[Magnimar]] et les pirates de [[Port-énigme]] qui protège les marchands magnimariens des attaques de ces derniers

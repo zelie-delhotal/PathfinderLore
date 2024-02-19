@@ -1,1 +1,1 @@
-Cours d'eau varisien se jetant dans le [[Lac des Braises]] où il rejoint le [[Charbonneux]]
+Cours d'eau varisien se jetant dans le [[Lac des Braises]] où il rejoint la [[Charbonneuse]]

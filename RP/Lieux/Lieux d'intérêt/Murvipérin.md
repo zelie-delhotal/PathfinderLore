@@ -1,1 +1,2 @@
 Chateau vraisemblablement abandonné sur les rives du [[Lac des Braises]]
+Les toits coniques ornés de grands serpents de pierre de cet inquiétant château brillent sous la lune. Les gens du coin évitent soigneusement le bâtiment qui s’entoure parfois d’une brume verte, résultant des gaz toxiques qui s’échappent régulièrement des crochets des serpents sculptés.

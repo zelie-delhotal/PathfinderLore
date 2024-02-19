@@ -1,0 +1,1 @@
+Le lac Profondorage doit son nom aux nombreux geysers sous-marins qui bouillonnent et s’agitent dans ses profondeurs. Sur les rives, les pêcheurs sont parfois obligés de se mettre à l’abri, quand des rocs survolent les lieux en rase-mottes, à la recherche de proies.

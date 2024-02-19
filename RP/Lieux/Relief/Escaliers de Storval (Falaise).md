@@ -1,1 +1,0 @@
-Immense falaise de plusieurs centaines de mètres qui traverse toute la [[Varisie]] depuis les [[Hautes Terres de Velashu]] jusqu'aux [[Monts de l'esprit]]

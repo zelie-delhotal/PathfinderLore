@@ -1,0 +1,1 @@
+Cette gigantesque montagne se dresse à l’extrémité méridionale des pics de Fer et domine la forêt de Sanos. Les chasseurs et les trappeurs de la région l’évitent soigneusement car ils disent que cette montagne est occupée par de féroces tribus d’ogres consanguins

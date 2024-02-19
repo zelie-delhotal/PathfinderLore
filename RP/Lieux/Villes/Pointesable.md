@@ -1,1 +1,0 @@
-Ville sur la [[Côte oubliée]]
