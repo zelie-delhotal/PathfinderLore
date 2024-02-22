@@ -1,1 +1,1 @@
-Diva de Magnimar
+Célèbre diva [Magnimarite](Magnimar)

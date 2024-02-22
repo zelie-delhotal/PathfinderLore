@@ -1,0 +1,1 @@
+Ancient prêtre de [[Pointesable]], mort dans l'incendie de l'église en 4702 AR.

@@ -1,0 +1,3 @@
+4702 : Meurtes du découpeur (Un artiste excentrique Jervis Stoot qui sculptait des oiseaux sur les devantures des gens) s'est mis à tuer + d'1 personne par jour pendant plus d'un mois. Il a tué l'ancien prévot.)
+L'église s'est enflammé un mois plus tard, perte du père  Ezakien Tobin et de sa fille adoptive (Nualia), les écuries, l'auberge et quelques maisons au nord
+L'église est désormais reconstruite, la ville est sûre

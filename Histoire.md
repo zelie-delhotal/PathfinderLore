@@ -1,16 +1,16 @@
 Marnedi  23 Rova 4707
-Nous sommes à Pointesable, sur la cote oubliée
-Festival du Machaon, dédié à Desna
-Nous sommes sur la grande place devant la cathédrale (nouvelle d'ailleurs)
-10h du matin
-Beaucoup de monde
-4 personnes sur l'estrade
-Prévot fait observer 1min de silence en mémoire des victimes de l'incendie de la précédente église il y a 5 ans
-4702 : Meurtes du découpeur (Un artiste excentrique Jervis Stoot qui sculptait des oiseaux sur les devantures des gens) s'est mis à tuer + d'1 personne par jour pendant plus d'un mois. Il a tué l'ancien prévot.)
-L'église s'est enflammé un mois plus tard, perte du père  Ezakien Tobin et de sa fille adoptive (Nualia), les écuries, l'auberge et quelques maisons au nord
-L'église est désormais reconstruite, la ville est sûre
-Festival du Machaon : Grande foire avec beaucoup de jeux : course en sac, cartes, jeux d'adresse...
-Midi approche, le père amène une immense charette avec ses acolytes, fait une petite parabole sur Desna et lâche des enfants de Desna
-Les enfants s'amusent toute la journée à poursuivre des papillons.
-Le père grimpe sur le podium, on entend un claquement presque un coup de tonnerre puis des ricanements et la chanson des gobelins
-Après une attaque de  gobelins, 
+Nous sommes à [[Pointesable]], sur la cote oubliée
+En cette journée d'équinoxe a lieu le [Festival du Machaon]([[Lâcher de Machaons]]), dédié à [[Desna]]
+Nous sommes sur la grande place devant la cathédrale qui est inaugurée par la même occasion.
+Dès 10h du matin, beaucoup de pointesablais.e.s sont présent.e.s  pour profiter des festivités.
+Quatre personnes sont présentes sur l'Estrade montée pour l'occasion et prennent la parole à tour de rôle.
+La maire [[Madame Deverin]] ouvre le bal avec une bonne humeur remarquable et en profite pour lancer une petite pique au tanneur bougon [[Larz Rovansky]].
+Le prévôt [[Bélor Ciguë]] commence par faire observer une minute de silence en mémoire des victimes de l'incendie de la précédente église il y a cinq ans. Il tient ensuite un cours discours sur les règles de sécurité en insistant bien sur la prudence nécessaire autour du feu de joie prévu.
+Le père [[Abstalar Zantus]] prend également la parole et inaugure officiellement la nouvelle église.
+Le quatrième orateur devait normalement être [[Longitsu Kaijitsu]], mais celui s'étant fait porter pâle, [[Cyrdak Drokkus]] prend sa place, rappelant à tout le monde les efforts de reconstructions qui ont été faits pour l'église et la ville, désormais plus sûre. Il invite également la foule à venir au théatre voir la représentation de "la malédiction de la harpie" avec la célèbre diva magnimarite [[Alishanda]] dans le premier rôle. 
+Le festival bat son plein toute la matinée, la boisson coule à flots et les attractions sont nombreuses : course en sac, soulever de poids, jeux d'adresse, concours de [[tolon]]...
+A l'approche de midi, le père [Zantus]([[Abstalar Zantus]]), aidé de ses assistants, traine sur la place un grand chariot bâché. Après avoir attiré l'attention de tous et rappelé la légende de [[Desna]] et de l'enfant aveugle, ils procèdent au lâcher des machaons pour l'émerveillement de tous.
+S'ensuit un grand banquet offert par la ville ou les différents établissements de restauration s'affrontent en présentant leurs meilleurs plats. On compte cette année parmi les compétiteurs le [[Dragon Rouillé]] avec son saumon au curry, la [[Myxine]] avec sa soupe de homard et le [[Cerf Blanc]] avec sa venaison aux graines de poivre. Le repas dure, les enfants courent après les papillons et la fête bat son plein toute l'après-midi. [[Ameiko Kaijitsu]] remporte le concours des tavernes pour le [[Dragon Rouillé]].
+En fin de journée, [Abstalar]([[Abstalar Zantus]]) monte sur le podium pour attirer l'attention de tous. C'est alors qu'un claquement sec bruyant comme un coup de tonnerre retentit. Celui est très vite suivi par un cri strident. Puis un autre. Un chien errant est sauvagement abattu par une petite créature armée d'une grande machette qui  vient de se faufiler à travers la foule. Dans un concert de ricanements aigus et dissonants, partout des [gobelins]([[Gobelin]]) surgissent et sèment le chaos, certains dévorant les restes froids du repas de midi. Dans la débandade générale, une poignée de braves se regroupe pour défendre tant bien que mal l'esplanade de l'église. 
+On compte parmi eux [[Azriel]], [Damaria]([[Damaria Salek]]), [[Ilyena]], [Ryze]([[Ryze Aurelius]]) et [[Shearagh]].
+Après une démonstration de force permettant de sauver quelques meubles sur la place, le petit groupe, alerté par une autre scène de violence, remonte la rue de l'église pour venir en aide à un homme aux prises avec un gobelin sur une monture hideuse. Dans un élan de magie et de violence, la menace est éliminée et l'homme, sauvé, se présente comme [[Aldern Ganrenard]]. Magnimarite, il réside actuellement au [[Dragon Rouillé]] et nous invite à l'y rejoindre pour qu'il nous remercie comme il se doit de l'avoir sauvé.

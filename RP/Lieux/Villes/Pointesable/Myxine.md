@@ -1,1 +1,1 @@
-Bar ou vit une Myxine dans un grand aquarium (Nora).
+Bar de [[Pointesable]] en partie célèbre pour le challenge autour de sa myxine Norah : les aventuriers les plus braves (ou les plus stupides) sont invités à miser quelques pièces pour tenter de boire l'eau de l'aquarium sans vomir. Celui qui y arrive gagne l'intégralité des mises précédentes et le droit de graver son nom sur la poutre au dessus du bar.
