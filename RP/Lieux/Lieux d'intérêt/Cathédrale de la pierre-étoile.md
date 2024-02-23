@@ -1,2 +1,2 @@
 Cathédrale d' [[Absalom]] renfermant la [[Pierre-étoile]] et les épreuves permettant d'y accéder, fondée après l'ascension d'[[Aroden]]
-Aujourd'hui et à nôtre connaissance, seuls 3 personnages ont réussi à parvenir jusqu'à la pierre et à devenir des dieux : [[Norgorber]], [[Cayden Cailéan]] et [[Iomedae]]
+Aujourd'hui et à notre connaissance, seuls 3 personnages ont réussi à parvenir jusqu'à la pierre et à devenir des dieux : [[Norgorber]], [[Cayden Cailéan]] et [[Iomedae]]

@@ -1,1 +1,2 @@
 Pointesable est un village de pêcheurs tranquille, connu pour son excellent théâtre et ses magnifiques objets en verre soufflé. C’est la seule ville de taille respectable sur la [[Côte oubliée]]. Dernièrement, la bourgade a connu une orgie de meurtres et des ennuis avec les gobelins.
+La ville a été fondée par 4 familles (Valdemar, Scarnetti, Kaijitsu et Déverin) sur une péninsule formée par le dernier méandre de la [[Turandarok]] avant de se jeter dans le [[Golfe de Varisie]].

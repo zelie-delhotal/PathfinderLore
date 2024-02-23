@@ -1,1 +1,0 @@
-Cours d'eau varisien se jetant dans le [[Lac des Braises]] où il rejoint la [[Charbonneuse]]

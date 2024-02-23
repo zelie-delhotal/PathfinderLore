@@ -1,0 +1,2 @@
+La cathédrale s'est enflammée un mois plus tard, perte du père  Ezakien Tobin et de sa fille adoptive (Nualia), les écuries, l'auberge et quelques maisons au nord
+L'église est désormais reconstruite, la ville est sûre
