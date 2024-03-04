@@ -1,1 +1,1 @@
-Cet immense barrage thassilonien retient les eaux de l’[[Abysse de Storval]]. La gigantesque structure, censément construite par d’antiques géants, est ornée de crânes gravés à sa surface
+Cet immense barrage thassilonien retient les eaux de l’[[Abysse de Storval]]. La gigantesque structure, censément construite par d’antiques géants, est ornée de crânes gravés à sa surface.

@@ -1,0 +1,1 @@
+Esplanade au nord de [[Pointesable]] surplombant la falaise de la [[Décharge]]. On peut y observer en toute sécurité les gobelins des sept dents en quête d'un quelconque trésor laissé là par la ville.

@@ -1,1 +1,1 @@
-Baie à l'est de la [[Mer des vapeurs]] sur la côte Varisienne.
+Baie à l'est de la [[Mer des vapeurs]] sur la côte [Varisienne](Varisie).

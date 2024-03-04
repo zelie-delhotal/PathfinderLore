@@ -1,1 +1,1 @@
-Dirigeant du théatre de [[Pointesable]]
+Dirigeant et fondateur du [[Théâtre de Pointesable]]

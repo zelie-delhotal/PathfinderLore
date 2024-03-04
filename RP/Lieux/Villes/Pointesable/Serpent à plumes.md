@@ -1,0 +1,1 @@
+Boutique-musée d'objets magiques de [[Vorvashali Voon]]. Veuillez ne rien toucher sans son autorisation !

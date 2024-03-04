@@ -1,0 +1,1 @@
+Ancien Contrebandier, désormais prêtre de [[Sarenrae]] en charge de l'ossuaire de [[Pointesable]].

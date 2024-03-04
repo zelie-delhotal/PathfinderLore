@@ -1,0 +1,1 @@
+Nain ayant quitté ses montagnes pour le travail du bois à Pointesable où il gère la [[Guilde des charpentiers]].

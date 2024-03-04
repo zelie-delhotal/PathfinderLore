@@ -1,0 +1,1 @@
+Tannerie de [[Larz Rovansky]], qui ne propose que des produits de très haute qualité. Il est si intransigeant qu'il travaille souvent seul après avoir renvoyé tous ses assistants !

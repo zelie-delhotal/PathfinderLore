@@ -1,0 +1,2 @@
+Lieu artistique parfois plein de piquant quand le gérant [[Kesk Berinni]] analyse la situation politique locale.
+C'est ici que les clientes et clients du [Théatre](Théâtre de Pointesable) viennent après les représentations pour partager leurs avis ou improviser un chant ou une saynète sur l'estrade.

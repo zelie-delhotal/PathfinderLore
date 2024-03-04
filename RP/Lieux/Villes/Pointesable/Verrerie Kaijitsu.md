@@ -1,0 +1,1 @@
+Les techniques ancestrales Minkaïes font de l'industrie du verre la fierté du village jusqu'à Korvosa et même au delà.

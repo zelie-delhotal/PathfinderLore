@@ -1,0 +1,2 @@
+À la fois école, orphelinat et académie de [[Pointesable]], l'établissement est géré par l'aventurier retraité [[Ilsoari Gandéthus]].
+On raconte que le sous-sol du bâtiment regorge de bien des mystères.

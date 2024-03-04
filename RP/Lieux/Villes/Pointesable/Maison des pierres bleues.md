@@ -1,0 +1,1 @@
+Monastère d'[[Irori]] dirigé par [[Sabyl Sorn]]. Avoir accès à ses livres n'est pas donné à tout le monde mais on raconte qu'ils sont d'une qualité extraordinaire.
