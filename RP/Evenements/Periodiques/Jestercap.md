@@ -1,2 +1,2 @@
 Dernier Astredi de Lamashan
-Jour des blagues et des mauvais tours, extrêmement drôle
+Jour gnome des blagues et des mauvais tours
