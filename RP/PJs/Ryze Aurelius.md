@@ -1,3 +1,4 @@
 #Axel
 
-Mage de Korvosa venu faire des études sur le Thassilon
+Mage spécialisé dans l'évocation originaire de Korvosa venu faire des études sur le Thassilon
+Vend ses services 

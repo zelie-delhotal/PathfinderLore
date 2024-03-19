@@ -4,34 +4,60 @@
     "type": "split",
     "children": [
       {
-        "id": "33a519d9909576ab",
+        "id": "47d122143ece5cda",
         "type": "tabs",
         "children": [
           {
-            "id": "6d340324641dd354",
+            "id": "342f6022f430546b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "RP/Bestiaire/Faune/Humanoïdes/Géants.md",
+                "file": "RP/Lieux/Villes/Pointesable/Cathédrale.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ed49ab99fb0f58a2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "RP/PNJs/Almah Déverin.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "3e70158c552bd2e8",
+            "id": "206afc68747bc30e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "RP/Lieux/Régions/Hautes Terres de Velashu.md",
+                "file": "RP/PNJs/Ezakien Tobin.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fa9c194624055797",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "RP/Lieux/Plans/Enfers/Stygie.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -97,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "RP/Bestiaire/Faune/Humanoïdes/Géants.md",
+                "file": "RP/PNJs/Ezakien Tobin.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "RP/Bestiaire/Faune/Humanoïdes/Géants.md",
+                "file": "RP/PNJs/Ezakien Tobin.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "RP/Bestiaire/Faune/Humanoïdes/Géants.md"
+                "file": "RP/PNJs/Ezakien Tobin.md"
               }
             }
           }
@@ -158,42 +184,45 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6d340324641dd354",
+  "active": "206afc68747bc30e",
   "lastOpenFiles": [
+    "RP/Lieux/Plans/Enfers/Stygie.md",
+    "RP/Lieux/Villes/Pointesable/Ecuries du Gobelin écrabouillé.md",
+    "RP/PNJs/Daviren Hosk.md",
+    "Histoire.md",
+    "RP/Traditions/Zodiaque/Meute.md",
+    "RP/Traditions/Zodiaque/Patriarche.md",
+    "RP/Traditions/Zodiaque/Mère.md",
+    "RP/Traditions/Zodiaque/Mariés.md",
+    "RP/Traditions/Zodiaque/Grive.md",
+    "RP/Traditions/Zodiaque/Fille.md",
+    "RP/Traditions/Zodiaque/Étranger.md",
+    "RP/Traditions/Zodiaque/Éclaireur.md",
+    "RP/Traditions/Zodiaque/Caravane Cosmique.md",
+    "RP/Traditions/Zodiaque/Wagon.md",
+    "RP/Traditions/Zodiaque/Suivant.md",
+    "RP/Traditions/Zodiaque/Rêveur.md",
+    "RP/Traditions/Zodiaque/Pont.md",
+    "RP/PNJs/Anduil.md",
+    "RP/PNJs/Kesk Berinni.md",
+    "Fiche_a_remplir.pdf",
+    "Pointesable.jpg",
+    "RP/PNJs/Aldern Ganrenard.md",
+    "RP/PJs/Ilyena.md",
+    "RP/PJs/Ryze Aurelius.md",
+    "RP/PJs/Shearagh.md",
+    "RP/PJs/Azriel.md",
+    "RP/PJs/Damaria Salek.md",
+    "RP/Lieux/Relief/Assiette du diable.md",
     "pfco_06_guide_du_joueur_eveil_des_seigneurs_des_runes_web_v1.pdf",
-    "RP/Lieux/Régions/Hautes Terres de Velashu.md",
-    "readme.md",
-    "Nouveau Document texte.txt",
-    "RP/Peuples et Ethnies/Seigneur des Chevaux.md",
-    "RP/Lieux/Eau/Sarwin.md",
-    "RP/Lieux/Villes/Harse.md",
-    "RP/Lieux/Lieux d'intérêt/Hall du Bois du ver.md",
-    "RP/Evenements/Traité de Gruankus.md",
-    "RP/Lieux/Lieux d'intérêt/Untitled.md",
-    "RP/Lieux/Lieux d'intérêt/Gruankus.md",
-    "RP/Evenements/Untitled",
-    "RP/Lieux/Relief/Grinçantes.md",
-    "RP/Lieux/Relief/Montagne Creuse.md",
-    "RP/Lieux/Eau/Golfe de Varisie.md",
-    "RP/Bestiaire/Faune/Monstres légendaires/Arkrhyst.md",
-    "RP/Lieux/Lieux d'intérêt/Givrecrâne.md",
-    "RP/Lieux/Villes/Galdurie.md",
-    "RP/Lieux/Forêts/Forêt de Sanos.md",
-    "RP/Bestiaire/Faune/Humanoïdes/Géants.md",
-    "RP/Dieux/Minderhal.md",
-    "RP/Lieux/Lieux d'intérêt/Forge de Minderhal.md",
-    "RP/Lieux/Eau/Abysse de Storval.md",
-    "RP/Lieux/Forêts/Forêt de Miérani.md",
-    "RP/Bestiaire/Faune/Monstres légendaires/Cornacérée.md",
-    "RP/Lieux/Lieux d'intérêt/Flèche de Lemriss.md",
-    "RP/Lieux/Relief/Montagnes rouges.md",
-    "RP/Lieux/Relief/Faille de Niltak.md",
-    "RP/Artefacts/Texte",
-    "RP/Dieux/Diables",
-    "RP/Dieux/Démons",
-    "RP/Lieux/Relief",
-    "RP/Bestiaire/Faune/Monstres légendaires",
-    "RP/Bestiaire/Faune/Humanoïdes",
-    "RP/Bestiaire/Faune/Créatures"
+    "Damaria Salek battle-Token.png",
+    "RP/Calendrier/Mois",
+    "RP/Calendrier",
+    "Aide_de_jeu_creation_de_personnage.docx",
+    "RP/Traditions/Jeu du Tourment",
+    "RP/Traditions/Zodiaque",
+    "RP/Lieux/Plans/Enfers",
+    "RP/Lieux/Plans",
+    "RP/Lieux/Eau/Îles"
   ]
 }
