@@ -1,0 +1,1 @@
+[[Savah Bevaniky]] propose ici quelques très belles pièces d'armure et d'équipement, dont la très onéreuse arbalète [[Vansaya]].

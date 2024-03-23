@@ -1,0 +1,1 @@
+[[Maver l'étourdi]] et [[Penna Kesk]] vous vendent ici des bijoux magnifiques, le tout protégés par une douzaine de gardes.

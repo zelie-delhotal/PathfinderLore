@@ -1,0 +1,2 @@
+Les monts de la vouivre s'étendent le long de la rive est de l'[[Abysse de Storval]], sur les [[Terres-Cendres]].
+Le nom de cette chaîne de montagne veut tout dire. Les voyageurs qui passent là seraient bien inspirés de rester à l’affût des meutes de prédateurs draconiques venimeux qui rôdent là et se nourrissent des chèvres et des moutons de la montagne. 

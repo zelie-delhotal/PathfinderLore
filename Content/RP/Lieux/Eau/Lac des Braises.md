@@ -1,0 +1,5 @@
+Lac d'eau douce de [[Varisie]].
+Sur la côte ouest se situent les villages de [[L'oreille-du-loup]], [[Galdurie]] et [[Nybor]].
+Le lac des Braises est sûrement alimenté par des sources chaudes, en plus de recevoir les eaux de la [[Charbonneuse]] et de la [[Malgoriane]].
+Il s’étend au milieu de collines moutonnantes et il est si chaud que, pendant les mois les plus froids, de la vapeur s’élève en plusieurs points de la rive. Le lac abrite aussi d’étranges créatures aquatiques qui filent sous la surface comme d’énormes bancs de lucioles.
+Ces petites créatures ne sont pas des poissons mais des [[Charigs]]. Elles ont l’air inoffensives mais les gens du coin refusent de les manger car ils disent que, certaines nuits, les bancs se rassemblent pour former des motifs changeants de plusieurs kilomètres de long et qu’ils se déplacent de façon consciente, dénotant une forme d’intelligence, comme s’ils créaient des signaux lumineux que l’on ne peut voir que du ciel.

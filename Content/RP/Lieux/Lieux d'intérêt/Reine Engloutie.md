@@ -1,0 +1,3 @@
+Cette énorme pyramide de pierre qui s’enfonce lentement dans les eaux du [[Marais du Mush]] est encore très impressionnante.
+Un de ses pans est entièrement recouvert d’un bas-relief représentant une magnifique femme nue. Plusieurs tours incurvées dépassent du sommet de la pyramide, formant de curieux angles, comme autant d’excroissances ou de cheminées.
+Les légendes disent que les murs austères de la Reine engloutie cachent des dizaines de niveaux de catacombes, toutes plus dangereuses les unes que les autres et emplies de secrets appartenant à l’ancien empire thassilonien.

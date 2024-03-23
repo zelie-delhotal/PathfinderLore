@@ -1,0 +1,1 @@
+La guilde, gérée par [[Aesrik Cor-de-Guerre]] a toujours du pain sur la planche. Si vous voulez vendre du bois à Pointesable, ce sera ici ou à la scierie. La guilde a le bras long ; prenez garde à être discrets si vous faites jouer la concurrence. 

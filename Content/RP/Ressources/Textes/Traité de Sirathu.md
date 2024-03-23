@@ -1,0 +1,2 @@
+Traité de paix signé en 4663 AR entre les cités de [[Korvosa]] et [[Magnimar]], alors en guerre.
+En plus d'une paix durable, Kaer Maga cède par ce traité toutes les terres en dessous des [[Falaises de Storval]] à Korvosa.

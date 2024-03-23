@@ -1,0 +1,1 @@
+Version allongée du [[Tranchechien]] souvent maniée par les Gobelins sur les [[Chiens Gobelins]]

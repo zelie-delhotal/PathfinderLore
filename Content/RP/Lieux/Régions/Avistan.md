@@ -1,0 +1,1 @@
+Continent délimité au sud par la [[Mer Intérieure]], à l'ouest par l'[[Océan Arcadien]] et la [[Mer des vapeurs]], au nord par la Couronne du Monde et à l'est par les montagnes du bout du monde.

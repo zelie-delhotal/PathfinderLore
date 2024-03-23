@@ -1,0 +1,2 @@
+"Le Phénix de Pointesable"
+La cathédrale nouvellement reconstruite après l'incendie de 4702 AR est dédiée à [[Desna]]. Elle se trouve sur l'emplacement d'un antique lieu de culte où certains clans nomades [[Varisiens]] se retrouvent chaque année pour vénérer Desna et échanger des nouvelles : Un cercle de sept pierres levées avec en son centre un autel circulaire.

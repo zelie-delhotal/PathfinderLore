@@ -1,0 +1,1 @@
+C'est ici que le Sire [[Jasper Korvaski]] gère pour le compte des quatres familles toutes les responsabilités notariales, immobilières et postales ainsi que le trafic fluvial, maritime et routier de [[Pointesable]].

@@ -1,0 +1,3 @@
+Ce hameau situé non loin de la [[Yondabakari]] à 15 lieues au sud-est de [[Kaer Maga]] est à la fois la plus pauvre et la plus éloignée des possessions korvosiennes. Il s'agit d'une addition plutôt tardive au royaume puisque la ville a été cédée par Kaer Maga en 4663 AR par le [[Traité de Sirathu]]
+
+En général, leurs « dirigeants » du sud les rejettent en disant que ce ne sont que des paysans crasseux mais, depuis quelques temps, ils attirent l’attention de la ville car ils se sont ralliés derrière une enfant de dix ans qui prétend voir l’avenir et les pousse à se débarrasser de la corruption korvosienne « avant que l’orage n’éclate. »

@@ -1,0 +1,1 @@
+Ce village isolé, niché sur les berges de la [[Rivière Crâne]], abrite une population paisible et accueillante. Loin de tout, les villageois doivent subvenir à leurs propres besoins car ils voient peu de visiteurs

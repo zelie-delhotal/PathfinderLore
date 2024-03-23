@@ -1,0 +1,1 @@
+Pays des elfes de Golarion dans la forêt à l'est du [[Lac Encarthan]].

@@ -1,0 +1,3 @@
+Ville sur la [[Charbonneuse]]
+Les habitants de Landecorbeau, une ville calme et isolée, sont ravis de commercer avec les gens qui empruntent la Charbonneuse mais les voyageurs qui désirent passer la nuit en ville se rendront vite compte que pas une auberge n’accepte de client, quand bien même elles ont l’air vides. De plus, même si les villageois semblent très pieux, ils répugnent à parler de leurs croyances avec les
+étrangers

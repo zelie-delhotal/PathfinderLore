@@ -1,0 +1,2 @@
+La Turandarok ("Rivière sans commencement" ou "Chemin de nulle part") coule le long de la [[Côte oubliée]] et se déverse dans le [[Golfe de Varisie]] au niveau de [[Pointesable]].
+Plus on remonte le cours de la Turandarok, plus la rivière est dangereuse et pleine de mystères. A ce jour personne n'a remonté la Turandarok jusqu'à sa source dans les *collines timides* (?)

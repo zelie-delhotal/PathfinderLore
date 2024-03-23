@@ -1,0 +1,1 @@
+Situé à coté de la [[Cathédrale]], l'ossuaire est géré par le prêtre [[Naffer Vost]] qui s'occupe des morts avec la même dévotion qu'il sonne l'aube, le zénith et le crépuscule.

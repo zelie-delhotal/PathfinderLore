@@ -1,0 +1,1 @@
+Continent au sud de la [[Mer Intérieure]], situé entre l'[[Océan Arcadien]] à l'ouest et l'[[Océan Obari]] à l'est.

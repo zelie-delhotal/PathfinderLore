@@ -1,0 +1,1 @@
+Ce vaste manoir recouvert de plantes grimpantes se dresse, inquiétant, au milieu du [[Bois Guetteur]]. Nulle lumière ne brille à ses fenêtres et ses linteaux sont gravés d’étranges runes contorsionnées. Beaucoup de gens pensent que le rythme anormal des saisons du bois est lié à ce manoir.

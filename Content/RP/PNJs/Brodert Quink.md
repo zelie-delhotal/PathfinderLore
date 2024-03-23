@@ -1,0 +1,1 @@
+Sage de Pointesable, véritable puits de connaissances. (Penser à le lancer sur le vieux phare)

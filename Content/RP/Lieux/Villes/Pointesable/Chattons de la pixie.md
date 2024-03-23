@@ -1,0 +1,2 @@
+Bordel tenu avec classe par [[Kaye Tésarani]].
+Les employé-es y sont bien payées et la présence de gardes shoantis ainsi que la liaison de Kaye avec le prévot en font le lieu le plus sûr de la ville après la garnison.

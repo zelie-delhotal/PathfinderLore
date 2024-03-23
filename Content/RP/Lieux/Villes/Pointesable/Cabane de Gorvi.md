@@ -1,0 +1,1 @@
+La cabane de [[Gorvi]] est le QG de la guilde informelle des [[Brouettes Rouges]] qui s'occupe du ramassage de déchets à Pointesable.

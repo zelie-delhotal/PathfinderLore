@@ -1,0 +1,2 @@
+Le lac Profondorage doit son nom aux nombreux geysers sous-marins qui bouillonnent et s’agitent dans ses profondeurs. Il est situé au nord des [[Montagnes rouges]], entre les [[Terres vides]] et les [[Hautes Terres de Velashu]]. Il est traversé par le [[Vaporeux]].
+Sur les rives, les pêcheurs sont parfois obligés de se mettre à l’abri, quand des [[rocs]] survolent les lieux en rase-mottes, à la recherche de proies.

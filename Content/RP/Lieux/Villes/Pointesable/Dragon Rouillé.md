@@ -1,0 +1,2 @@
+La plus vieille auberge de [[Pointesable]], flanquée sur son toit d'un grand dragon métallique qui sert de paratonnerre.
+L'ancienne aventurière [[Ameiko Kaijitsu]] y  compose depuis 6 ans la cuisine la plus exotique et la musique la plus entraînante de la ville.

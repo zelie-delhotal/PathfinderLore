@@ -1,0 +1,2 @@
+La [[Yondabakari]] est le fleuve qui prend sa source loin à l'est dans les [[Terres Cendres]] et se jette dans le [[Golfe de Varisie]] au niveau de [[Magnimar]].
+Il est longé par la route éponyme [[Yondabakari (route)]].
