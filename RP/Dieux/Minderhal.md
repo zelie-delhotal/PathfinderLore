@@ -1,1 +1,1 @@
-Dieu-Forgeron des [[géants]]
+Dieu-Forgeron des [[Géants]]

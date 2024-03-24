@@ -1,1 +1,0 @@
-Sorte de rat géant presque dépourvu de poils qui sert de monture aux [[Gobelins]]

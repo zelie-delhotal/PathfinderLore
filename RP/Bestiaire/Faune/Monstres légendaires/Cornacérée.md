@@ -1,1 +1,0 @@
-Dragon de la [[Forêt de Miérani]]

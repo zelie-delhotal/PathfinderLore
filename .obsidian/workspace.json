@@ -21,39 +21,19 @@
             }
           },
           {
-            "id": "ed49ab99fb0f58a2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "RP/PNJs/Almah Déverin.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "206afc68747bc30e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "RP/PNJs/Ezakien Tobin.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           },
           {
-            "id": "fa9c194624055797",
+            "id": "ed49ab99fb0f58a2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "RP/Lieux/Plans/Enfers/Stygie.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ],
@@ -123,7 +103,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "RP/PNJs/Ezakien Tobin.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +119,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "RP/PNJs/Ezakien Tobin.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,9 +140,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "RP/PNJs/Ezakien Tobin.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -184,45 +160,54 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "206afc68747bc30e",
+  "active": "ed49ab99fb0f58a2",
   "lastOpenFiles": [
-    "RP/Lieux/Plans/Enfers/Stygie.md",
-    "RP/Lieux/Villes/Pointesable/Ecuries du Gobelin écrabouillé.md",
-    "RP/PNJs/Daviren Hosk.md",
-    "Histoire.md",
-    "RP/Traditions/Zodiaque/Meute.md",
+    "RP/Traditions/Zodiaque/Wagon.md",
+    "RP/Traditions/Zodiaque/Suivant.md",
+    "RP/Traditions/Zodiaque/Rêveur.md",
+    "RP/Traditions/Zodiaque/Pont.md",
     "RP/Traditions/Zodiaque/Patriarche.md",
+    "RP/Traditions/Zodiaque/Meute.md",
     "RP/Traditions/Zodiaque/Mère.md",
     "RP/Traditions/Zodiaque/Mariés.md",
     "RP/Traditions/Zodiaque/Grive.md",
     "RP/Traditions/Zodiaque/Fille.md",
     "RP/Traditions/Zodiaque/Étranger.md",
     "RP/Traditions/Zodiaque/Éclaireur.md",
+    "RP/Traditions/Zodiaque/Cavalier.md",
     "RP/Traditions/Zodiaque/Caravane Cosmique.md",
-    "RP/Traditions/Zodiaque/Wagon.md",
-    "RP/Traditions/Zodiaque/Suivant.md",
-    "RP/Traditions/Zodiaque/Rêveur.md",
-    "RP/Traditions/Zodiaque/Pont.md",
-    "RP/PNJs/Anduil.md",
-    "RP/PNJs/Kesk Berinni.md",
-    "Fiche_a_remplir.pdf",
-    "Pointesable.jpg",
-    "RP/PNJs/Aldern Ganrenard.md",
-    "RP/PJs/Ilyena.md",
-    "RP/PJs/Ryze Aurelius.md",
-    "RP/PJs/Shearagh.md",
-    "RP/PJs/Azriel.md",
-    "RP/PJs/Damaria Salek.md",
-    "RP/Lieux/Relief/Assiette du diable.md",
-    "pfco_06_guide_du_joueur_eveil_des_seigneurs_des_runes_web_v1.pdf",
-    "Damaria Salek battle-Token.png",
-    "RP/Calendrier/Mois",
-    "RP/Calendrier",
-    "Aide_de_jeu_creation_de_personnage.docx",
-    "RP/Traditions/Jeu du Tourment",
-    "RP/Traditions/Zodiaque",
-    "RP/Lieux/Plans/Enfers",
-    "RP/Lieux/Plans",
-    "RP/Lieux/Eau/Îles"
+    "RP/Calendrier/AR/Sarenith.md",
+    "RP/Calendrier/AR/Rova.md",
+    "RP/Calendrier/AR/Pharast.md",
+    "RP/Calendrier/AR/Neth.md",
+    "RP/Calendrier/AR/Lamashan.md",
+    "RP/Calendrier/AR/Kuthona.md",
+    "RP/Calendrier/AR/Gozran.md",
+    "RP/Calendrier/AR/Erastus.md",
+    "RP/Calendrier/AR/Calistril.md",
+    "Erastil.md",
+    "RP/Calendrier/AR/Desnus.md",
+    "RP/Calendrier/AR/Arodus.md",
+    "RP/Calendrier/AR",
+    "RP/PJs/Untitled.canvas",
+    "quartz/node_modules/wrap-ansi-cjs/node_modules/emoji-regex/es2015/text.js",
+    "quartz/node_modules/wrap-ansi-cjs/node_modules/emoji-regex/es2015/index.js",
+    "quartz/node_modules/wrap-ansi-cjs/node_modules/emoji-regex/es2015",
+    "quartz/node_modules/vfile/node_modules/vfile-message/lib/index.js",
+    "quartz/node_modules/vfile/node_modules/vfile-message/lib/index.d.ts",
+    "quartz/node_modules/vfile/node_modules/vfile-message/lib",
+    "quartz/node_modules/vfile/node_modules/unist-util-stringify-position/lib/index.js",
+    "quartz/node_modules/vfile/node_modules/unist-util-stringify-position/lib/index.d.ts",
+    "quartz/node_modules/vfile/node_modules/unist-util-stringify-position/lib",
+    "quartz/node_modules/cli-spinner/img/spinner.gif",
+    "brochure Pointesable Sebi recto.webp",
+    "brochure Pointesable Sebi verso.webp",
+    "quartz/quartz/static/og-image.png",
+    "quartz/quartz/static/icon.png",
+    "quartz/docs/images/quartz transform pipeline.png",
+    "quartz/docs/images/quartz layout.png",
+    "quartz/docs/images/github-quick-setup.png",
+    "quartz/docs/images/github-init-repo-options.png",
+    "quartz/docs/images/dns records.png"
   ]
 }

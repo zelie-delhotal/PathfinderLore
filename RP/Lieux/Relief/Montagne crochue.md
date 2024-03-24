@@ -1,1 +1,1 @@
-Cette gigantesque montagne se dresse à l’extrémité méridionale des [[Pics de Fer]] et domine la [[Forêt de Sanos]]. Les chasseurs et les trappeurs de la région l’évitent soigneusement car ils disent que cette montagne est occupée par de féroces tribus d’[[ogres]] consanguins
+Cette gigantesque montagne se dresse à l’extrémité méridionale des [[Pics de Fer]] et domine la [[Forêt de Sanos]]. Les chasseurs et les trappeurs de la région l’évitent soigneusement car ils disent que cette montagne est occupée par de féroces tribus d’[[Ogres]] consanguins

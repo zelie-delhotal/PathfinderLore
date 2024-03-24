@@ -1,1 +1,0 @@
-Dragon blanc résidant à [[Givrecrâne]]
