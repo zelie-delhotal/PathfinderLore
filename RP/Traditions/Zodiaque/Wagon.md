@@ -1,2 +1,2 @@
-21 Erastus - 10 Arodus
+21 [[Erastus]] - 10 [[Arodus]]
 Huitième constellation de la [[Caravane Cosmique]], le wagon transporte les autres signes à travers les étoiles. Il représente une roue à sept rayons ou une étoile à sept branches.
