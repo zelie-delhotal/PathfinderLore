@@ -1,0 +1,3 @@
+L'Élysée est un Plan de la [[Sphère extérieure]] tourné vers le bien mais libéré de toutes règles. La créativité et les émotions y ont libre cours.
+Il prend la forme d'une grande variété de paysages sauvages à couper le souffle, des forêts luxuriantes aux montagnes colossales.
+Ce plan est habité par des azatas, des lillend et des titans vivant reclus, perchés sur les hauteurs ou dans des châteaux volants.

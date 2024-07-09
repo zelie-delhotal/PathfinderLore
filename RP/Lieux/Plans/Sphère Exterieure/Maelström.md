@@ -1,0 +1,3 @@
+Le Maelström, aussi appelé Limbo, est le plan du chaos qui tapisse la majorité de la [[Sphère intérieure]]. Ce sont des terres changeantes et instables, où des forêts cristallines peuvent en un clin d'oeil se transformer en déserts ou en étranges montagnes.
+Près des frontières avec les autres plans extérieurs, le plan est plus stable et ressemble au plan proche, mais plus on s'éloigne et plus la réalité est changeante.
+Le Maelström est peuplé par des protéens et des bêtes du Chaos.

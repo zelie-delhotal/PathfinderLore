@@ -1,0 +1,1 @@
+Rat de [[Damaria Salek]]

@@ -1,0 +1,4 @@
+Le Plan Astral est un plan d'existence qui remplit la [[Sphère extérieure]] et au centre duquel se trouve la [[Sphère intérieure]].
+C'est une vaste étendue de vide ou flottent des "nuages argentés de substances métaphysiques" d'après les sages qui l'ont étudié. S'ils sont façonnés par une pensée assez forte, ces étranges nuages peuvent même former des demi-plans.
+Le plan astral est habité par des créatures étranges que bien peu veulent décrire, dont les Astradaémons et les guenaudes de la nuit.
+Ce plan est également l'endroit ou passe la rivière des morts : le flux presque ininterrompu d'âmes décédées qui rejoignent le [[Cimetière]] ou Pic de Pharasma.

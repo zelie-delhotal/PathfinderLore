@@ -1,0 +1,3 @@
+La Sphère extérieure est un ensemble de plans autour de la [[Sphère intérieure]], située en son centre et baignant dans le [[plan Astral]].
+Sur la surface intérieure de cette sphère se situent neuf plans qui, par opposition aux plans élémentaires très matériels, sont formés par la pensée et ordonnés selon les types de croyance et d'éthique.
+Le [[Maelström]] tapisse la majorité de cette sphère et englobe les huit autres plans : Le [[Paradis]], le [[Nirvana]] et l'[[Élysée]] sont les plans du bien, auxquels s'opposent les [[Enfers]], [[Abaddon]] et l'[[Abysse]]. Enfin l'[[Axis]] et le [[Cimetière]] ne sont orientés ni vers le bien ni vers le mal.

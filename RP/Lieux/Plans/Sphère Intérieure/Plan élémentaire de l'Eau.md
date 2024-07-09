@@ -1,0 +1,4 @@
+Deuxième plan de la coquille de la [[Sphère intérieure]], Le plan élémentaire de l’Eau est un monde cristallin faits d’immenses mers d’eau salée et de gigantesques océans d’eau pure.
+La luminosité y est plus forte près de la frontière avec le plan de l’Air et il y fait beaucoup plus sombre dans les régions proches du plan de la Terre. 
+On peut y rencontrer des marids, des krakens, de dangereux sahuagins ainsi que des tritons et des sirènes.
+Il n’est pas rare d’y trouver des éclats de Terre et d’Air combinés (naturellement ou par magie) de manière à former des îlots solides couverts d’un bulle d’air et donc tout à fait habitables.

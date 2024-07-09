@@ -1,0 +1,2 @@
+Plan de la [[Sphère intérieure]], il s'agit de l'ombre projetée par le [[Plan matériel]] baigné de la lumière du [[Plan d'énergie positive]]. Sombre reflet de celui-ci, les villes y deviennent des ruines désertes et les océans d'immenses fosses asséchées.
+Les déplacement y fonctionnant différemment, un mage équipé des bons sorts et bien protégé pourrait se servir du plan des ombres pour se déplacer plus rapidement entre deux endroits de Golarion.

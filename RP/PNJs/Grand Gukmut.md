@@ -1,0 +1,1 @@
+Gobelin excessivement grand de la [[Tribu de Bois-moussu]]. D'après ses pairs, il serait le fils d'une hobgobeline et d'un sanglier

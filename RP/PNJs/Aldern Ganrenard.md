@@ -1,2 +1,2 @@
 Négociant Magnimarite
-Reste au dragon rouillé
+Sejourne au dragon rouillé

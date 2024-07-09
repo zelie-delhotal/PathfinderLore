@@ -1,0 +1,1 @@
+Nom donné au vide entre les étoiles

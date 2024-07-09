@@ -1,0 +1,2 @@
+
+La tribu de [[Gobelins]] des Sept Dents vit dans le [[Bois-aux-Guibolles]] au nord de [[Pointesable]]. Ils passent le clair de leur temps a piller la [[Décharge]] de la ville, surement pour en revendre le contenu aux autres tribus alentour.

@@ -1,0 +1,3 @@
+La sphère intérieure est un ensemble de plans d'existence constitué en grande partie du [[Plan éthéré]], dans lequel baignent quatre plans : le [[Plan matériel]], le [[Plan d'énergie positive]], le [[Plan d'énergie négative]] et le [[Plan des ombres]].
+Autour du plan éthéré existe une "coquille" de quatre plans élémentaires concentriques, dont les frontières sont loin d'être strictes. Il est fréquent que des mélanges se passent et que des éclats se détachent des plans en question et se déplacent en créant de nouvelles combinaisons élémentaires.
+De l'intérieur vers l'extérieur, ces plans sont : le [[Plan élémentaire de l'Air]], le [[Plan élémentaire de l'Eau]], le [[Plan élémentaire de la Terre]] et le [[Plan élémentaire du Feu]].

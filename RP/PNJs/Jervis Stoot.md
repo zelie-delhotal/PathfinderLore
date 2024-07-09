@@ -1,4 +1,5 @@
-Artiste excentrique ayant vécu à [[Pointesable]] sur la désormais tristement célèbre [[Île du Découpeur]], Jervis était connu pour sculpter des oiseaux en bois sur les facades des habitants.
+Artiste excentrique ayant vécu à [[Pointesable]] sur la désormais tristement célèbre [[Île du Découpeur]], Jervis était connu pour graver des oiseaux en bois sur les façades des habitants.
 En 4702 AR, une série de meurtres quotidiens secoue Pointesable pendant plus d'un mois.
 Les victimes sont retrouvées affreusement mutilées : de profondes lacérations dans le cou et le torse, les mains et les pieds découpés et empilés à coté du corps, les yeux et la langue systématiquement arrachés. On donne en conséquence le surnom de "Découpeur" au tueur en série qui s'avèrera être Jervis.
 Sa dernière victime est le prévot [[Casp Avertin]], puisqu'à partir de son cadavre seront retrouvées des traces de sang menant jusqu'à la cabane de Jervis ou ce dernier a été retrouvé mort par [[Bélor Ciguë]] (le prévot a toujours préféré éviter donner trop de détails sur les circonstances de la mort de l'individu).
+D'apres Belor, Jervis Stoot n'aurait jamais fait ca. Il aurait pu être contrôlé.

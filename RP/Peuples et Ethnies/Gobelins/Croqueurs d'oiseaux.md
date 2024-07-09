@@ -1,0 +1,1 @@
+La tribu de [[Gobelins]] des croqueurs d'oiseaux vit dans les grottes de la bordure ouest de l'[[Assiette du diable]]. Il s'agit des gobelins les moins agressifs des alentours de [[Pointesable]].

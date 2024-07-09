@@ -1,0 +1,1 @@
+Les gobelins ont une existence violente et plutot courte. Quand un gobelin commence a etre connu, c est souvent merite.

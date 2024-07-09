@@ -1,0 +1,1 @@
+Vieux gnome cartographe installé a [[Pointesable]] ou il tient la boutique de cartes [[la Voie Nord]].

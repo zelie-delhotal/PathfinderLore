@@ -1,0 +1,2 @@
+Premier plan de la coquille de la [[Sphère intérieure]], le plan élémentaire de l’Air est un lieu de ciel bleu, d’éclairs, de neige et de nuages où on peut parfois trouver des îlots de glace, des "bulles d’eau" de la taille d’un océan et des tempêtes intenses.
+C’est le territoire des villes flottantes des djinns, des méphits d’air et des dragons blancs.

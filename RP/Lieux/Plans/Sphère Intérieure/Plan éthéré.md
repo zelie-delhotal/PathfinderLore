@@ -1,0 +1,3 @@
+Plan constituant la majorité de la [[sphère intérieure]] et dans lequel flottent quelques autres plans dont le [[Plan matériel]], le [[Plan d'énergie positive]], le [[Plan d'énergie négative]] et le [[Plan des ombres]].
+Il est décrit comme un épais brouillard mêlant réalité et illusions et sert de lien pour voyager entre les plans. On y trouve des fantômes et des âmes errantes, incapables de se détacher du monde matériel.
+Certains sages pensent que c'est ici que les rêves, comme les cauchemars, se concrétisent.

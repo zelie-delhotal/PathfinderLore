@@ -1,0 +1,1 @@
+D apres [[Brodert Quink]], ce n etqit pas un phare mais une grande tour surement plus de trois fois plus grande qu elle ne l est aujourdhui une tour de 200 m une arme de guerre capable de jeter du feu jusqu'a une distance tres grande. Le Thassilon aurait regne sur toute la varisie, si ce n est plus

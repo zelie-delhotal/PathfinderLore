@@ -1,0 +1,1 @@
+Plan de la [[Sphère intérieure]] d'où provient l'énergie de la non-vie. Il s'oppose au [[Plan d'énergie positive]] et est peuplé de morts-vivants.

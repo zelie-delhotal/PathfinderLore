@@ -1,1 +1,3 @@
 Boucherie de [[Chod Bévuk]]
+La moitie du batiment est un abattoir. La majorite de la viande vient soit de l elevage local, soit des prises des chasseurs.
+Chod a un certain penchant pour les mensonges et les exagérations, il dit avoir rencontre plusieurs fois le decoupeur et s etre battu avec lui, ce qui lui a coute un doigt de la main gauche. Certains Pointesablais pensent qu'il s'est coupe ce doigt tout seul.

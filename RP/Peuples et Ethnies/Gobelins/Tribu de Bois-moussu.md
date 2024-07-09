@@ -1,0 +1,1 @@
+Les [[Gobelins]] de [[Bois-Moussu]] forment la tribu la plus grande des alentours de [[Pointesable]], au point que les grandes familles de la tribu se livrent en permanence a des vendetta entre elles. Cela contribue a réguler la population, de sorte que les gobelins de bois-moussu ne sont pas réellement une menace.

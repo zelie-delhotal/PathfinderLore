@@ -1,0 +1,1 @@
+Korius, champion des sept dents avec fort caractere et une epee longue magique forgee pour un humain. Il aurait disparu il y a plusieurs mois en trouvant un tresor dans une grotte. Certains disent qu'il est mort, d'autres qu'il protege farouchement son tresor.

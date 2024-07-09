@@ -1,0 +1,1 @@
+Les lèche-crapauds sont une tribu de [[Gobelins]] vivant dans le [[Marais Souchesalee]] au sud de [[Pointesable]]. Ce sont d'excellents nageurs.
