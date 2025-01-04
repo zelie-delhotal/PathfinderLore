@@ -4,52 +4,93 @@
     "type": "split",
     "children": [
       {
-        "id": "47d122143ece5cda",
+        "id": "9ded8465008eb2e3",
         "type": "tabs",
         "children": [
           {
-            "id": "342f6022f430546b",
+            "id": "cbf816201c9cac3c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "RP/Lieux/Villes/Pointesable/Cathédrale.md",
+                "file": "RP/Biologie/Faune/Humanoïdes/Gobelins.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Gobelins"
             }
           },
           {
-            "id": "206afc68747bc30e",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "ed49ab99fb0f58a2",
+            "id": "64fe64721c25d165",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gravelands.md",
+                "file": "RP/PNJs/Sabyl Sorn.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Sabyl Sorn"
             }
           },
           {
-            "id": "15ec07ac300f1b08",
+            "id": "ea8595e89e5aabfd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "RP/PNJs/Vorvashali Voon.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Vorvashali Voon"
+            }
+          },
+          {
+            "id": "5599fa7ac0ab0d68",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Histoire.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Histoire"
+            }
+          },
+          {
+            "id": "4f507b696642a7f6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "RP/Lieux/Villes/Pointesable.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Pointesable"
+            }
+          },
+          {
+            "id": "a445d72ca85d0f80",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "RP/Organisations/Loge de Bois-sauvage.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Loge de Bois-sauvage"
             }
           }
         ],
@@ -73,7 +114,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -88,7 +131,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -96,7 +141,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -119,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "RP/Biologie/Faune/Humanoïdes/Gobelins.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +174,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Gobelins"
             }
           },
           {
@@ -136,10 +185,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "RP/Biologie/Faune/Humanoïdes/Gobelins.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Gobelins"
             }
           },
           {
@@ -150,7 +201,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -159,8 +212,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md"
-              }
+                "file": "RP/Biologie/Faune/Humanoïdes/Gobelins.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Gobelins"
             }
           }
         ]
@@ -180,54 +235,54 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "15ec07ac300f1b08",
+  "active": "5599fa7ac0ab0d68",
   "lastOpenFiles": [
+    "index.md",
     "Histoire.md",
-    "Gravelands.md",
-    "RP/Untitled.md",
-    "RP/Traditions/Zodiaque/Wagon.md",
-    "RP/Traditions/Zodiaque/Suivant.md",
-    "RP/Traditions/Zodiaque/Rêveur.md",
-    "RP/Traditions/Zodiaque/Pont.md",
-    "RP/Traditions/Zodiaque/Patriarche.md",
-    "RP/Traditions/Zodiaque/Meute.md",
-    "RP/Traditions/Zodiaque/Mère.md",
-    "RP/Traditions/Zodiaque/Mariés.md",
-    "RP/Traditions/Zodiaque/Grive.md",
-    "RP/Traditions/Zodiaque/Fille.md",
-    "RP/Traditions/Zodiaque/Étranger.md",
-    "RP/Traditions/Zodiaque/Éclaireur.md",
-    "RP/Traditions/Zodiaque/Cavalier.md",
-    "RP/Traditions/Zodiaque/Caravane Cosmique.md",
-    "RP/Calendrier/AR/Sarenith.md",
-    "RP/Calendrier/AR/Rova.md",
-    "RP/Calendrier/AR/Pharast.md",
-    "RP/Calendrier/AR/Neth.md",
-    "RP/Calendrier/AR/Lamashan.md",
-    "RP/Calendrier/AR/Kuthona.md",
-    "RP/Calendrier/AR/Gozran.md",
-    "RP/Calendrier/AR/Erastus.md",
-    "RP/Calendrier/AR/Calistril.md",
-    "RP/Calendrier/AR",
-    "RP/PJs/Untitled.canvas",
-    "quartz/node_modules/wrap-ansi-cjs/node_modules/emoji-regex/es2015/text.js",
-    "quartz/node_modules/wrap-ansi-cjs/node_modules/emoji-regex/es2015/index.js",
-    "quartz/node_modules/wrap-ansi-cjs/node_modules/emoji-regex/es2015",
-    "quartz/node_modules/vfile/node_modules/vfile-message/lib/index.js",
-    "quartz/node_modules/vfile/node_modules/vfile-message/lib/index.d.ts",
-    "quartz/node_modules/vfile/node_modules/vfile-message/lib",
-    "quartz/node_modules/vfile/node_modules/unist-util-stringify-position/lib/index.js",
-    "quartz/node_modules/vfile/node_modules/unist-util-stringify-position/lib/index.d.ts",
-    "quartz/node_modules/vfile/node_modules/unist-util-stringify-position/lib",
-    "quartz/node_modules/cli-spinner/img/spinner.gif",
-    "brochure Pointesable Sebi recto.webp",
-    "brochure Pointesable Sebi verso.webp",
-    "quartz/quartz/static/og-image.png",
-    "quartz/quartz/static/icon.png",
-    "quartz/docs/images/quartz transform pipeline.png",
-    "quartz/docs/images/quartz layout.png",
-    "quartz/docs/images/github-quick-setup.png",
-    "quartz/docs/images/github-init-repo-options.png",
-    "quartz/docs/images/dns records.png"
+    "RP/Peuples et Ethnies/Gobelins/Tribu de Pic-Chardon.md",
+    "RP/Peuples et Ethnies/Gobelins/Tribu de Bois-moussu.md",
+    "RP/Peuples et Ethnies/Gobelins/Sept Dents.md",
+    "RP/Peuples et Ethnies/Gobelins/Lèche-crapauds.md",
+    "RP/Peuples et Ethnies/Gobelins/Croqueurs d'oiseaux.md",
+    "RP/Biologie/Flore/Baie de Gobelin.md",
+    "RP/Lieux/Villes/Pointesable.md",
+    "RP/Lieux/Villes/Pointesable/Boutique de Pointesable et d'ailleurs.md",
+    "RP/Organisations/Loge de Bois-sauvage.md",
+    "RP/Dieux/Lamashtu.md",
+    "RP/PJs/Ryze Aurelius.md",
+    "RP/PJs/Ilyena Moerel.md",
+    "RP/PJs/Azriel Draigyara.md",
+    "RP/Traditions/Jeu du Tourment/Jeu du Tourment.md",
+    "RP/PNJs/Ralu Sterglus.md",
+    "RP/PNJs/Turch Sterglus.md",
+    "RP/Lieux/Villes/Pointesable/Myxine.md",
+    "RP/Lieux/Villes/Pointesable/Musette de l'Homme Gras.md",
+    "RP/Lieux/Villes/Pointesable/Ossuaire.md",
+    "RP/Lieux/Villes/Pointesable/Marché au poisson Valdemar.md",
+    "RP/Lieux/Villes/Pointesable/Moulin Scarnetti.md",
+    "RP/Lieux/Villes/Pointesable/Manoir des Valdemar.md",
+    "RP/Lieux/Villes/Pointesable/Marché.md",
+    "RP/Lieux/Villes/Pointesable/la Voie Nord.md",
+    "Pasted image 20240630003916.png",
+    "Tsuto_Kaijitsu.jpg",
+    "Galerie/Pasted image 20240519181617.png",
+    "pfco_06_guide_du_joueur_eveil_des_seigneurs_des_runes_web_v1.pdf",
+    "Galerie/Pasted image 20240519181706.png",
+    "RP/Lieux/Eau/Mers/Baies-Golfes",
+    "RP/Lieux/Eau/Autres",
+    "RP/Peuples et Ethnies/Gobelins",
+    "Galerie/Arriere-pays_pointesable.png",
+    "RP/Dieux/Seigneurs Empyreens",
+    "RP/Lieux/Eau/Rivieres",
+    "RP/Lieux/Eau/Lacs",
+    "RP/Lieux/Eau/Mers",
+    "Galerie/Pointesable.jpg",
+    "Galerie/Shayliss_Vinder.PNG",
+    "Galerie/Abstalar_Zantus.png",
+    "Galerie/AldernFoxglove.webp",
+    "Galerie/Ameiko.jpg",
+    "RP/PJs/Familiers",
+    "RP/Lieux/Plans/Sphère Exterieure/Paradis",
+    "RP/PJs/Untitled.canvas"
   ]
 }

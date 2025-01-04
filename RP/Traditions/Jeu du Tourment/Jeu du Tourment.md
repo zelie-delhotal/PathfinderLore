@@ -1,0 +1,2 @@
+Les 54 cartes des jeux de Harrow sont divisées en 9 groupes de 6 cartes. Chaque groupe correspond à une position naturelle (passé/présent/futur et positif/neutre/négatif) et contient 6 cartes, liées aux 6 constituants de chaque être. Les constituants dont il est question ici sont propres
+au jeu de Harrow : chaque créature est vue comme le composé de sa Force, de sa Dextérité, de sa Constitution, de son Intelligence, de sa Sagesse et de son Charisme

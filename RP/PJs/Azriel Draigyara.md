@@ -1,6 +1,6 @@
 #Theo
 Fils d'Arael
-Elfe Originaire du [[Kyonin]], dans une petite ferme entre yadara et arzinc au sud est
+Elfe ensorceleur Originaire du [[Kyonin]], dans une petite ferme entre yadara et arzinc au sud est
 A parcouru le monde pendant une vingtaine d'année comme aventurier, a traversé la druuma, le molthune et le nirmathas avant d'arriver en Varisie.
 Origine draconique bleue
 Pratique certaines formes de magie avec une préférence pour l'éléctricité

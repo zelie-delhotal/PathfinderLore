@@ -131,3 +131,63 @@ Le père Tobin, horrifie et abasourdi, nous confie qu'on a affaire a des démons
 
 On tombe sur le cousin d'un ouvrier et un collègue vendu comme un honnete citoyen. Ils se sont servi du four pour faire disparaitre un corps.
 fin 15h30
+
+*****
+
+Azriel est allé à l'alchimiste
+orage de 17 à 22h
+Solardi 28 Rova 4707 AR
+On s'engouffre dans le tunnel et on prend un embranchement à gauche (dans les catacombes de la Colère) On rencontre une créature étrange qu'on tue (je porte la torche d'Ilyena) On passe à droite et on explore une partie de la grotte, cul de sac avec 3 squelettes Pièce avec des monticules de débris, murs détruits, on entre dans un endroit différent (murs maçonnés) -> contrebandiers ? (débris du côté maçonné, donc détruit depuis la grotte), morceaux d'urnes et de poterie (contient de la poussière) le tunnel s'élargit sur ce qui ressemble à un sanctuaire (plateforme de pierre grise, sanctuaire, eau croupie) -> truc avec de l'eau = de loin Lamashtu ???? (du peu que je connais, ça ressemble pas à ça), on dirait un peu de l'eau maudite mais pas exactement (pas la même aura, un truc en plus) devant deux énormes porte de pierre (en fixant la porte, on remarque des faible traces d'inscription un peu partout, on dirait du Thassilonien, je n'arrive pas à lire exactement, très différent et des runes rares) on ouvre la porte: ressemble à une grande cathédrale souterraine, deux grande porte de pierre, plein de runes, bassin au centre avec des cercles de squelettes, bassin bouillant en triangle, pièce d'un froid glacial
+
+Petite créature volante et invisible qui insulte les grands morts
+
+Thassilonine: comment quoi oser vous introduire/entrer dans sanctuaire de ma Mère elle se lacère le poignet, des goutte de sang tombe dans le bassin bouillonnante (elle l'air inquiète, ça s'illumine), une créature comme celle précédente sort du bassin tandis qu'elle deviens statue rouge en marbre d'une femme, expression de fureur, long cheveux retenu (large livre étoile 7 branches), arme (corsec) en ivoire et métal rune thassilonienne: Sihedron (rune assez importante) encore un bassin bordé de crâne, du sang une créature horrible (sorte de crâne démon avec des ailes de chauves-souris),
+
+*****
+
+On continue tout droit jusqu'à une vollée de marches circulaire, bouchée par des rochers On revient sur nos pas et ouvre la porte au nord (grande pièce, ancienne priuson, cellules, ) deux créatures bizarres attrape SHéoragh et moi (je prends de lourdes blessures) qu'on tue ensuite salle de torture (cage sphérique ) au sud une pièce avec 3 portes (chaune avec un symbole étoile à sept branche -> Sihedron rune associée à la culture Thassilonienne, j'en sais pas plus, lien avec la magie ? école de magie ?) je fais remarquer qu'il a des écrits différents dans le texte et des notes en pate de mouche dans plein de fragments porte de gauche : squelette avecun énorme crâne (3x la taille normale) et difforme porte du milieu : cage thoracique qui dessend jusqu'au bassin, bassin plat et ambes très courtes porte de droite : squelettes avec 3 bras -> expériences ! à drotie :plafond très haut (6m), X fosses creusées , bruit de frottement et de gémissement dans les fosses Koruvus : gobelin à 3 bras trou d'1.5m, 6m ed profondeur avec des zombis en dessous on continue vers le bas puis à gauche vers une vollée de marches qui s'enfonce dans la terre en bas 
+
+étrange pièce 4m diamètre, objets qui flottent, parhcemins, bagutte, livre, corbeau, murs plaqués de panneaux de métal rouge qui ondule courant noir et silencieux qui se forme des runes ou des mots 1 parchemin P1 -> pas réussi à l'identifier mais Azriel me dit que c'est Mains Brûlantes (niveau 3) livre L1 : ?? pas magique, cheloux, gravures avec des monstres/démons/bêtes/animaux chelous, plutôt ouvragé baguette B2 (Azriel prend) : baguette tordue en fer extrémité tordue murs en Thassiloniens : plus compréhensibles mais les mots sont en rapport avec la colère/haine/rage, etc...
+
+livre use bouteille de vin corbeau mort baguette metallique a l'extremite tordue
+Metal rougeoyant sur les murs parcourus de courant electrique bleu qui forment par moment des sortes de rybe
+*****
+
+Tres vieux bouquin en bon etat ecrit en abyssal. De tres belles illustrations / fresques hieroglyphem dont des monstres. Un sort de lévitation imprègne la zone
+Grand soleil 14 degrés au max
+On ressort de la verrerie vers 14h. Quelque chose rode sous Pointesable et ca nous met pas bien.
+Ryze part se reposer et le reste du groupe part acheter un filet pour restreindre la créature. Ven Vinder refuse de nous le vendre a un prix raisonnable, on va négocier avec [[Turch Sterglus]] qui accepte de nous vendre un filet a 22PO.
+On retourne dans la chapelle pour affronter la créature. Il fait très froid dans la pièce.
+45cm de hauteur
+Elle a hurle qqch dans une langue inconnue avant de faire une offrande de sang dans le puits dont une créature sort immédiatement. On lui marave sa gueule
+
+*****
+
+Ressemble a une cathédrale souterraine, des cranes humains polis délimitent la moitie la plus profonde du bassin. Les murs sont couverts de runes "pointues". Du bassin triangulaire sur la chaire, une eau orangée semble bouillonner comme de la lave transparente.
+Une tiare a glissé de la tête de la créature et est récupérée par Ilyena, comme sa robe en soie et un petit disque en obsidienne avec un symbole étrange dessus et sa dague en métal étrange, visiblement enchantée.
+La réserve magique du bassin est finie et on décide de l'épuiser en versant un peu de sang de la créature peu a peu. 2 invocations suffisent a cela. Les bulles stoppent.
+En sortant des ruines, nous débouchons dans le tunnel principal. Le chemin de droite retourne a la verrerie, et le gauche s'enfonce dans le loin. Nous décidons de remonter pour faire une pause.
+Long repos
+29 Rova au matin : il fait très froid et venteux mais beau
+Une porte dérobée donne sur une grotte ouverte sur le flanc de falaise, d'environ 9m de diamètre avec des petits lits de gobelin ainsi que des restes de repas.
+Debrief a Zantus
+Le prévôt est revenu. Nous aurons du renfort de Magnimar. Si les plans de Tsuto sont exacts, ces renforts ne suffiront pas. Il compte sur nous pour aider a la sécurité de la ville entre temps.
+****
+13h
+aprem chill sur la plage
+Marnedi 30 Rova 4707 8h
+Nous partons sur la route de la cote oubliée en direction de pic chardon. le paysage est assez joli. A notre droite se situe les collines du nid de corbeaux.
+Nous passons entre le [[Bois-aux-Guibolles]] et le [[Bois-aux-Tiques]], et nous nous faisons attaquer par des gobelins.
+Nous passons entre la fosse commune et le roc de leb avant d'arriver au gue de la chardon.
+A notre droite, au fond, le bois moussu. A notre gauche, le bois aux orties dans lequel nous nous enfoncons.
+Ryze trébuche sur des plantes épineuses empoisonnées. La plante présente des petites baies vertes et est connue sous le nom de [[Baie de Gobelin]].
+Les ronces et les chardons sont encore plus touffus près de la cote. Il y a peu d'arbres mais les ronces gigantesques suffisent a les remplacer. Elles montent jusqu' a 6 mètres de haut !
+On trouve un tunnel d'environ 1m20 de haut sous les ronces, que nous décidons d'emprunter. Le sol est fait de terre battue. Des que nous pouvons relever la tête, nous tombons sur une salle au plafond bas ou couve un feu. Des lits sont dans les coins de la grotte.
+Le chef d'ici est tres mechant et vient de pic charbon. Il a jeté des membres de sa tribu dans le "trou qui hurle" qui mange des gobelins dans la mer.
+Nous gardons un gobelin sauf. Il s'appelle Ruklut. Il accepte de nous guider jusqu'a Pic-Chardon pour qu'on élimine vole-pepite. 
+*****
+20h
+
+Mercantdi 1er Lamashtu 4707
+10 degres
+
