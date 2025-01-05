@@ -85,6 +85,7 @@ Alivar nous cache qqch, [[Nisk Tander]] nous révèle avoir été rackette par d
 Commanditaire : 1m80, barbe de 3 jours
 16h nous arrivons a la musette de l homme gras
 *****
+Session 6
 L homme en question s est clairement rendu compte qu'on le dévisageait.
 Apres une brève discussion, nous sommes conduits dans une pièce aveugle a l'arrière de la boutique. Nous sommes accueillis par une jeune femme
 
@@ -112,12 +113,14 @@ Ameiko nous sert une liqueur qui brule un peu, probablement du mais ou autre, pr
 Gros orage de 14h a 17h
 Je reserve une jolie Morgenstern pour 6PO
 *****
+Session 7
 Astredi 27 Rova 4707 AR
 Tot le matin
 [[Bethana]] nous fait parvenir une lettre en Minkais : Ameiko a disparu !
 Nous nous rendons a la [[Verrerie Kaijitsu]] : Toutes les portes sont fermées et nous n'avons aucune réponse. Nous décidons d enfoncer une porte de service.
 Les ouvriers de la verrerie ont été massacrés par des gobelins et sont a différents stades de démembrement, certains sont brulés, certains ont eu du verre fondu versé sur eux.
 *****
+Session 8
 Le four a verre a des flammes bleues
 Petit livret a la reliure de cuir ~2 douzaines de pages. La plupart de ces parchemins sont couverts de cartes de Pointesable et de dessins d'une seule femme plus ou moins dénudée. Il s'agirait de Nualia.
 ![[Pasted image 20240630003916.png]]
@@ -129,11 +132,10 @@ Nous rentrons au dragon rouille pour s'occuper d'Ameiko. Bethana, pleine d'espoi
 Roruko, le grand-père d'Ameiko avait fait fermer des tunnels dont les contrebandiers se servaient pour accéder a la baie de Pointesable. Le mal en question serait par la bas.
 Le père Tobin, horrifie et abasourdi, nous confie qu'on a affaire a des démons.
 
-On tombe sur le cousin d'un ouvrier et un collègue vendu comme un honnete citoyen. Ils se sont servi du four pour faire disparaitre un corps.
+On tombe sur le cousin d'un ouvrier et un collègue vendu comme un honnete citoyen. Ils se sont servi du four pour faire disparaitre un corps (probablement celui du chef Sczarni que nous avons mis a pied).
 fin 15h30
-
 *****
-
+Session 9
 Azriel est allé à l'alchimiste
 orage de 17 à 22h
 Solardi 28 Rova 4707 AR
@@ -145,6 +147,7 @@ Thassilonine: comment quoi oser vous introduire/entrer dans sanctuaire de ma Mè
 
 *****
 
+Session 10
 On continue tout droit jusqu'à une vollée de marches circulaire, bouchée par des rochers On revient sur nos pas et ouvre la porte au nord (grande pièce, ancienne priuson, cellules, ) deux créatures bizarres attrape SHéoragh et moi (je prends de lourdes blessures) qu'on tue ensuite salle de torture (cage sphérique ) au sud une pièce avec 3 portes (chaune avec un symbole étoile à sept branche -> Sihedron rune associée à la culture Thassilonienne, j'en sais pas plus, lien avec la magie ? école de magie ?) je fais remarquer qu'il a des écrits différents dans le texte et des notes en pate de mouche dans plein de fragments porte de gauche : squelette avecun énorme crâne (3x la taille normale) et difforme porte du milieu : cage thoracique qui dessend jusqu'au bassin, bassin plat et ambes très courtes porte de droite : squelettes avec 3 bras -> expériences ! à drotie :plafond très haut (6m), X fosses creusées , bruit de frottement et de gémissement dans les fosses Koruvus : gobelin à 3 bras trou d'1.5m, 6m ed profondeur avec des zombis en dessous on continue vers le bas puis à gauche vers une vollée de marches qui s'enfonce dans la terre en bas 
 
 étrange pièce 4m diamètre, objets qui flottent, parhcemins, bagutte, livre, corbeau, murs plaqués de panneaux de métal rouge qui ondule courant noir et silencieux qui se forme des runes ou des mots 1 parchemin P1 -> pas réussi à l'identifier mais Azriel me dit que c'est Mains Brûlantes (niveau 3) livre L1 : ?? pas magique, cheloux, gravures avec des monstres/démons/bêtes/animaux chelous, plutôt ouvragé baguette B2 (Azriel prend) : baguette tordue en fer extrémité tordue murs en Thassiloniens : plus compréhensibles mais les mots sont en rapport avec la colère/haine/rage, etc...
@@ -153,6 +156,7 @@ livre use bouteille de vin corbeau mort baguette metallique a l'extremite tordue
 Metal rougeoyant sur les murs parcourus de courant electrique bleu qui forment par moment des sortes de rybe
 *****
 
+Session 11
 Tres vieux bouquin en bon etat ecrit en abyssal. De tres belles illustrations / fresques hieroglyphem dont des monstres. Un sort de lévitation imprègne la zone
 Grand soleil 14 degrés au max
 On ressort de la verrerie vers 14h. Quelque chose rode sous Pointesable et ca nous met pas bien.
@@ -162,7 +166,7 @@ On retourne dans la chapelle pour affronter la créature. Il fait très froid da
 Elle a hurle qqch dans une langue inconnue avant de faire une offrande de sang dans le puits dont une créature sort immédiatement. On lui marave sa gueule
 
 *****
-
+Session 12
 Ressemble a une cathédrale souterraine, des cranes humains polis délimitent la moitie la plus profonde du bassin. Les murs sont couverts de runes "pointues". Du bassin triangulaire sur la chaire, une eau orangée semble bouillonner comme de la lave transparente.
 Une tiare a glissé de la tête de la créature et est récupérée par Ilyena, comme sa robe en soie et un petit disque en obsidienne avec un symbole étrange dessus et sa dague en métal étrange, visiblement enchantée.
 La réserve magique du bassin est finie et on décide de l'épuiser en versant un peu de sang de la créature peu a peu. 2 invocations suffisent a cela. Les bulles stoppent.
@@ -173,6 +177,7 @@ Une porte dérobée donne sur une grotte ouverte sur le flanc de falaise, d'envi
 Debrief a Zantus
 Le prévôt est revenu. Nous aurons du renfort de Magnimar. Si les plans de Tsuto sont exacts, ces renforts ne suffiront pas. Il compte sur nous pour aider a la sécurité de la ville entre temps.
 ****
+Session 13
 13h
 aprem chill sur la plage
 Marnedi 30 Rova 4707 8h
@@ -184,10 +189,26 @@ Ryze trébuche sur des plantes épineuses empoisonnées. La plante présente des
 Les ronces et les chardons sont encore plus touffus près de la cote. Il y a peu d'arbres mais les ronces gigantesques suffisent a les remplacer. Elles montent jusqu' a 6 mètres de haut !
 On trouve un tunnel d'environ 1m20 de haut sous les ronces, que nous décidons d'emprunter. Le sol est fait de terre battue. Des que nous pouvons relever la tête, nous tombons sur une salle au plafond bas ou couve un feu. Des lits sont dans les coins de la grotte.
 Le chef d'ici est tres mechant et vient de pic charbon. Il a jeté des membres de sa tribu dans le "trou qui hurle" qui mange des gobelins dans la mer.
-Nous gardons un gobelin sauf. Il s'appelle Ruklut. Il accepte de nous guider jusqu'a Pic-Chardon pour qu'on élimine vole-pepite. 
+Nous gardons un gobelin sauf. Ryze discute avec lui grace a sa maitrise du gobelin. Il s'appelle [[Ruklut]]. Il accepte de nous guider jusqu'a Pic-Chardon pour qu'on élimine vole-pepite. Je pense qu'il saura de par sa situation entendre l'enseignement de Milani.
 *****
 20h
 
-Mercantdi 1er Lamashtu 4707
-10 degres
+Session 14
+Un des cadavres tressaute étrangement
+3 tunnels de charbons débouchent sur une caverne au toit épineux au travers duquel on aperçoit les étoiles. Au sud, le bruit des vagues resonne dans un abime, ainsi qu'un étrange rugissement dont nous ne cernons pas l'origine.
+Le sol et les murs de la pièce suivante sont couverts de touffes et de poils emmêles. Une douzaine de pieux sont fiches dans le sol et 4 chiens gobelins y sont attaches. Ceux-ci se ruent sur nous des qu'ils nous aperçoivent, arrachant immédiatement les pieux qui les retenaient a peine. Nous nous défendons sans difficulté contre ces pauvres bêtes qui n'ont probablement connu que la violence lors de leur courte existence.
+Azriel se laisse surprendre par un cougar fourrure ardente qui le mord a plusieurs reprises et l'amène au sol. 
+
+Un pont de corde 25m au dessus de l'eau et d'environ 16m relie la falaise a la petite ile circulaire de pic charbon.
+2 tours de guet de 9m de haut surmonte la palissade d'un étage qui entoure le camp gobelin.
+Nous délivrons Ruklut de ses obligations comme nous avions promis. On lui offre aussi l'armure du druide en remerciement. J'ai l'espoir que Milani puisse guider ses actes dans un futur proche, pour que l'équilibre entre les tribus soit rétabli au plus vite.
+
+Mercantdi 1er Lamashan 4707 9h30
+10 degrés
+Un nid emmêlé de fourrure rouge et noire se trouve a l'est, et au sud une collection de cranes d'oiseaux divers. Un petit lit d'ortie est a moitie rempli de cadavres d'oiseaux et de rats qui indiquent que la créature qui vit ici mange dans son lit.
+Le pont semble dote de trop de cordes avec des poulies étranges. Le cote est semble avoir plus de cordes que le cote ouest.
+la palissade est faite d épais morceaux de bois. on se rend compte que la plupart d entre eux ont été récupérés sur des bateaux. certains portent encore des plaques de navire et certains ressemblent a des mats. La porte qui fait face au pont et a moitie entrouverte.
+En entrant, le sol de la pièce est fait de terre battue. Plusieurs têtes de chevaux et de chiens sont empailles maladroitement sur le mur est tandis que le mur sud présente une paire d'ailes noires épinglée par des dagues que nous récupérons (Ilyena). Une des 7 a un joli manche en perle.
+Les magiciens en profitent pour réexaminer la dague de la thassilonienne, c'est une dague boomerang en fer froid.
+Au milieu se trouve une large cour a ciel ouvert. Quelques touffes d'herbes poussent ca et la. 2 gobelins morts gisent au nord de la cour et des chiens gobelins nous attaquent.
 
