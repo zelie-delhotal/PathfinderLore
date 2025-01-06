@@ -44,64 +44,63 @@ On rentre au dragon rouillé ou après quelques boissons, [[Katrine Vinder]] vie
 *****
 Session 4
 Ameiko lance la cuisson des sangliers, [[Shayliss Vinder]] entre et s'approche de Damaria. Elle dit avoir un problème : Son pere est tres occupe car [[Katrine Vinder]] s'est tres rapproche de [[Banny Harker]].
-De plus le [[Bazar de Ven Vinder]] est infeste de rats et elle demande mon aide. Il s'avère qu'elle cherchait simplement une aventure, qui fut intense et agreable, avant d etre interompue par [[Ven Vinder]], visiblement très énervé de cette rencontre. En bredouillant quelques excuses, je sors de chez lui, il hurle qu'il ne veut plus me voir avec sa fille.
-De retour au bar, nous jouons au des quand Longitsu rentre en hurlant. Il commence par embrouiller les pjs avant d exiger qu ameiko vienne avec lui, il part a Magminar.
-Il essaie d'attrapper Ameiko par les cheveux, mais cette derniere esquive et lui assene un coup de louche. Il declare 'Ameiko, pour moi tu es aussi morte que ta mere' et sort de la taverne. Il s'adresse aussi a elle comme 'sa vraie fille', ce qui semble la contrarier.
-A la mention de sa famille compliquee, Ameiko confirme en versant une toute petite larme.
-'Roric' fait remarquer que le statut de son père y est probablement pour qqch a l achat de cet établissement. Elle le fait taire a la mention de son ardoise.
-Yoro, un client éméché de la taverne, nous interrompt d'une blague graveleuse.
+De plus le [[Bazar de Ven Vinder]] est infeste de rats et elle demande mon aide. Il s'avère qu'elle cherchait simplement une aventure, qui fut intense et agréable, avant d être interrompue par [[Ven Vinder]], visiblement très énervé de cette rencontre. En bredouillant quelques excuses, je sors de chez lui, il hurle qu'il ne veut plus me voir avec sa fille.
+De retour au bar, nous jouons au des quand Longitsu rentre en hurlant. Il commence par chercher des embrouilles a notre petit groupe avant d exiger qu ameiko vienne avec lui, il part a Magminar.
+Il tente d'attraper Ameiko par les cheveux, mais cette dernière évite l'assaut et lui assène un coup de louche. Il déclare 'Ameiko, pour moi tu es aussi morte que ta mère' et sort de la taverne. Il s'adresse aussi a elle comme 'sa vraie fille', ce qui semble la contrarier.
+A la mention de sa famille compliquée, Ameiko confirme en versant une toute petite larme.
+Roric, un habitue de la taverne, fait remarquer que le statut de son père est probablement pour quelque chose a l'achat du [[Dragon Rouillé]]. Ameiko le fait taire promptement en mentionnant son ardoise.
+Yoro, un client éméché de la taverne, nous interrompt d'une blague graveleuse que je ne prendrai pas la peine de retranscrire ici.
 
 Juredi 25 Rova 4707 AR
-Tmax 12 degres
+Température maximum 12 degrés
 
-Apres une bonne nuit de repos, nous rendons visite a Bélor ; le groupe souhaite avoir plus d'infos sur [[Jervis Stoot]]. Il donne quelques informations sur l'affaire. Apres cela nous allons voir [[Brodert Quink]] qui nous parle un peu du vieux phare, puis nous sommes interrompus par des cris et des pleurs. Une femme en larmes nous cherche, avec son fils et un bebe.
+Apres une bonne nuit de repos, nous rendons visite a Bélor ; le groupe souhaite avoir plus d'informations sur [[Jervis Stoot]]. Il donne quelques informations sur l'affaire. Apres cela nous allons voir [[Brodert Quink]] qui nous parle un peu du vieux phare.
+Nous sommes rapidement interrompus par des cris et des pleurs. Une femme en larmes nous cherche, avec son fils de sept ou huit ans et un bebe. Il s'agit respectivement d'Amel, Aeren et Vera Barett, qui habitent rue de la falaise, juste au nord de la bijouterie.
 
-Il disait avoir un gobelin dans son placard mais introuvable. il a tue petale leur chien et attaque leur fils.
-Amel Barett habite avec son mari Alargast, son bebe Vera et son fils Aeren (7-8 ans) au dessus du 5 sur la carte
+Amel nous resume la situation entres quelques sanglots : leur fils disait avoir un gobelin dans son placard depuis des jours mais ni elle ni son mari n'ont trouve de trace de la creature jusqu'a ce qu'elle attaque aujourd'hui. le gobelin a tué leur chien Pétale et attaqué leur fils.
 
 *****
 Session 5
-10h du matin, il pleut
-Apres une investigation de la maison, nous trouvons Alargast mort, le visage et le torse a moitie devore. Un gobelin surgit de l armoire dont le fond a ete demonte.
-Les yeux du gobelin semblent presque plus fous que d'habitude.
+10h du matin, il pleut.
+Apres une investigation de la maison, nous trouvons Alargast mort dans la chambre de son fils, le visage et le torse a moitie dévorés. Un gobelin surgit de l'armoire dont le fond a ete demonte, laissant entrevoir un passage vers le vide sanitaire de la maison. Les yeux du gobelin semblent presque plus fous que d'habitude.
 Nous parvenons a vaincre le gobelin.
-Apres observation, il s avere qu un passage a ete creuse vers le vide sanitaire.
-Shearagh est accostee par un jeune a l exterieur de la maison. Il s agit de l apprenti de [[Das Korvut]] qui nous confie que ce dernier a quelque chose a nous dire.
-En chemin, nous apercevons un passage a tabac dans l'allée des grenouilles. Nous nous lançons a la poursuite des agresseurs.
-Traversee de la foule du theatre, virage de l allee du decoupeur, chargement de bois de la scierie, flaque de l allee de la boue, tonneaux de la brasserie, perdus temporairement, gardes shoantis, quai glissant du port
+Shearagh est accostée par un jeune a l'extérieur de la maison. Il s agit de l'apprenti de [[Das Korvut]] qui nous confie que ce dernier a quelque chose a nous dire.
+En chemin, nous apercevons un passage a tabac dans l'allée des grenouilles et le groupe se lance a la poursuite des agresseurs pendant que je vérifie l'état du malheureux.
+Traversee de la foule du theatre, virage de l allée du découpeur, chargement de bois de la scierie, flaque de l'allée de la boue, tonneaux de la brasserie, perdus temporairement, gardes shoantis, quai glissant du port
 La personne est un jeune charpentier, [[Milo le Tarin]]. Il est stabilise mais toujours inconscient
-Le reste du groupe rattrape les agresseurs au port et les sauve d une noyade certaine. Il s agit d un homme et une femme respectivement rase et aux cheveux courts. Shearagh tente de les intimider sans grand succes.
+Le reste du groupe rattrape les agresseurs au port et les sauve d une noyade certaine. Il s agit d un homme et une femme respectivement rase et aux cheveux courts. Shearagh tente de les intimider sans grand succès.
 ![[Pasted image 20240519181706.png]]
 Azriel propose de les soigner s'ils parlent.
-Apres des dures négociations, ils révèlent qu'ils etaient dans un bivouac et qu un type est venu leur demander de corriger Milo le Tarin. Ils n en savent pas plus.
-Azriel va secourir Ilyena. Un homme l aide : [[Gaven Déverin]] de la [[Brasserie des deux chevaliers]]. Il semble doué de pouvoirs divins de soins. Il s agit d'un paladin a la retraite.
-[[Das Korvut]] amène le blesse a la [[Cathédrale]] et nous promet des prix avantageux a la forge si nous souhaitons passer commande.
+Apres des dures négociations, ils révèlent qu'ils étaient dans un bivouac et qu'un type est venu leur demander de corriger Milo le Tarin. Ils n en savent pas plus.
+Azriel va secourir Ilyena qui a souffert d'une vilaine chute au coin de la [[Brasserie des deux chevaliers]]. [[Gaven Déverin]] l'aide a la soigner. Il travaille a la brasserie mais semble doué de pouvoirs divins de soins. Il avoue etre paladin a la retraite.
+[[Das Korvut]] amène le blesse a la [[Cathédrale]] et nous transmet ce qu'il avait a nous dire : il promet des prix avantageux a la forge si nous souhaitons passer commande.
+
 Fournisseur du travail : il avait une capuche et donc pas grand chose a savoir dessus.
 paye 20po d avance 60 après.
-La femme a a sa ceinture une bourse avec un parchemin qui dépasse. Je lui prends alors qu'elle tente de m'en empecher.
+La femme a a sa ceinture une bourse avec un parchemin qui dépasse. Je lui prends alors qu'elle tente de m'en empêcher.
 ![[Pasted image 20240519181617.png]]
 
-Alivar nous cache qqch, [[Nisk Tander]] nous révèle avoir été rackette par des [[Sczarni]] récemment. Cloporte serait avec eux.
+Nous rendons visite au deux personnages dont il est question :[[Alivar Podiker]] nous cache quelque chose, [[Nisk Tander]] nous révèle avoir été racketté par des [[Sczarni]] récemment. le cloporte serait avec eux.
 Commanditaire : 1m80, barbe de 3 jours
-16h nous arrivons a la musette de l homme gras
+16h nous arrivons a la musette de l homme gras. Nous remarquons bien rapidement un homme dont la description correspond a celle qui nous a été faite du commanditaire des agressions dans la ville.
 *****
 Session 6
-L homme en question s est clairement rendu compte qu'on le dévisageait.
-Apres une brève discussion, nous sommes conduits dans une pièce aveugle a l'arrière de la boutique. Nous sommes accueillis par une jeune femme
+L'homme en question s est clairement rendu compte qu'on le dévisageait.
+Apres une brève discussion, nous sommes conduits dans une pièce aveugle a l'arrière de la boutique et nous sommes accueillis par une jeune femme qui semble haut placée dans la hiérarchie sczarni de la ville.
 
 Ventdi 26 Rova 4707 AR
 
-A cote d un acolyte apparait Katrine Vinder, qui nous avertit que le prévôt nous cherche. Nous nous rendons donc a la mairie, dans le bureau de Kendra Deverin ou se situent la maire, le prévôt et une elfe.
-Il y a eu une augmentation de pillages sur la route de la cote oubliée, notamment entre le bois moussu et le bois aux orties. Hier a peine un groupe de gobelins a brule une ferme au sud de bois moussu. Heureusement Shalelu etait a proximite et a pu proteger la famille. Il y a 5 grandes tribus de gobelins dans la region qui d ordinaire se mettent sur la tete. Cependant les 5 ont participe au raid sur pointesable.
-La tribu de bois-moussu est salement amochee et se plaint de nous. Shalelu craint que qqn se soit installee chez les gobelins pour les rallier.
+A cote d un acolyte apparait Katrine Vinder, qui nous avertit que le prévôt nous cherche. Nous nous rendons donc a la mairie, dans le bureau de Kendra Deverin ou se situent la maire, le prévôt et une elfe qui nous est présentée comme étant [[Shalelu Andosana]].
+Il y a eu une augmentation de pillages sur la route de la cote oubliée, notamment entre le bois moussu et le bois aux orties. Hier a peine un groupe de gobelins a brule une ferme au sud de bois moussu. Heureusement Shalelu était a proximité et a pu protéger la famille de fermiers. Il y a 5 grandes tribus de gobelins dans la région qui d ordinaire sont trop occupées a se quereller entre elles pour présenter une seule menace commune. Cependant les cinq tribus ont participe au raid sur Pointesable lors du lâcher de machaons.
+La tribu de bois-moussu est salement amochée et se plaint de nous. Shalelu craint que qqn se soit installee chez les gobelins pour les rallier.
 Le prevot nous demande de rester a l interieur de pointesable pour le moral des habitants pendant qu'il va jusqu a Magnimar chercher du renfort.
 Shalelu mange avec nous a midi.
 Tribus gobelines : tribus des croqueurs d oiseaux vivent sur les grottes de la bordure ouest de l assiette du diable. c est les moins agressifs
 Au sud dans le marais de souchesalee, les leche-crapauds, d excellents nageurs
 Les gobelins de bois-guibolle sont les 7 dents, qui pillent la decharge surement pour echanger et revendre aux autres gobelins.
 A le est les gobelins de bois moussus, les plus nombreux dont les nombreuses familles se livrent a des vendetta constante
-La tribu de pic charbon vivent sur une petite ile qui ressemblerait pour certains a une tete decapitee sur la cote nord du bois aux orties.
-Les gobelins ont une existence violente et plutot courte. Quand un gobelin commence a etre connu, c est souvent merite. Il y a 6 heros dans la region : 
+La tribu de pic charbon vivent sur une petite ile qui ressemblerait pour certains a une tête décapitée sur la cote nord du bois aux orties.
+Les gobelins ont une existence violente et plutôt courte. Quand un gobelin commence a être connu, c est souvent merite. Il y a 6 heros dans la region : 
 Le grand Gukmut dans le bois moussu : Tres grand et musculeux, il serait le fils d une hobgobeline et d un sanglier
 Korius, champion des sept dents avec fort caractere et une epee longue magique forgee pour un humain. Il aurait disparu il y a plusieurs mois en trouvant un tresor dans une grotte. Certains disent qu'il est mort, d'autres qu'il protege farouchement son tresor.
 Vorka, celebre gobeline canibale de souchesalee, heroine pour les autres tribus
@@ -109,7 +108,7 @@ Souchesalee diriges par
 Renvatt Glutvad, il ne quitte jamais son trone et aurait un certain embompoint
 Vole-pépite, chef actuel de pic-chardon. considéré comme le meileur repaire de la region
 Brutalmus, gobelours vit au nord de bois moussus hait les elfes rend souvent visite qux 5 tribus pour leur troquer ce qu'il vole aux caravanes. L elfe a du mal a avoir le dessus lors de leurs affrontements
-Ameiko nous sert une liqueur qui brule un peu, probablement du mais ou autre, prepare par un paysan du coin.
+Ameiko nous sert une liqueur qui brule un peu, probablement du mais, préparée par un paysan du coin.
 Gros orage de 14h a 17h
 Je reserve une jolie Morgenstern pour 6PO
 *****
@@ -121,7 +120,7 @@ Nous nous rendons a la [[Verrerie Kaijitsu]] : Toutes les portes sont fermées e
 Les ouvriers de la verrerie ont été massacrés par des gobelins et sont a différents stades de démembrement, certains sont brulés, certains ont eu du verre fondu versé sur eux.
 *****
 Session 8
-Le four a verre a des flammes bleues
+Le four a verre a des flammes bleues ?
 Petit livret a la reliure de cuir ~2 douzaines de pages. La plupart de ces parchemins sont couverts de cartes de Pointesable et de dessins d'une seule femme plus ou moins dénudée. Il s'agirait de Nualia.
 ![[Pasted image 20240630003916.png]]
 Toutes les cartes montrent des plans d'attaque differents. Les 5-6 premieres montrent un plan d'attaque pour une trentaine de gobelins et l'un correspond a l'attaque du festival du machaon.
