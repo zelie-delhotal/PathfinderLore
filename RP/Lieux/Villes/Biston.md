@@ -1,4 +1,4 @@
-Petit village troglodyte sur la côte nord du [[Lac de Syrantule]], dans des cavernes qui auraient autrefois abrité des harpies.
+Petit village troglodyte sur la côte nord du [[Lac de Syrantule]], dans des cavernes qui auraient autrefois abrité des [[Harpies]].
 Les habitants possèdent un fort sens d'indépendance auquel [[Korvosa]] réplique avec force. La loi martiale y était encore en vigueur il y a quelques années.
 
 Ici, les berges du lac de Syrantule s’élèvent loin au-dessus des eaux pour former un haut surplomb rocheux. Une ancienne communauté délabrée occupe l’escarpement. Elle se compose de cavernes creusées dans la roche pour former un réseau de terriers douillets reliés par des cordes et des échelles. En ce moment, l’endroit abrite surtout des pêcheurs et des fermiers mais on dit que ses architectes étaient des harpies dont la tribu a aujourd’hui disparu

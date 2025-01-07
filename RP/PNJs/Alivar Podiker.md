@@ -1,3 +1,3 @@
 "Cloporte"
-Herboriste en charge du [[Garde-manger du cloporte]] à Pointesable.
-Traite avec la [[Sczarni]].
+Herboriste en charge du [[Garde-manger du cloporte]] à [[Pointesable]].
+Traite volontiers avec la [[Sczarni]].

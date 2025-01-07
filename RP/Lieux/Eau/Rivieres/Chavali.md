@@ -1,1 +1,1 @@
-Fleuve qui se jette dans le [[Golfe de Varisie]] à [[Baie de Roderic]]
+Fleuve qui se jette dans le [[Golfe de Varisie]] à [[Baie de Rodéric]]

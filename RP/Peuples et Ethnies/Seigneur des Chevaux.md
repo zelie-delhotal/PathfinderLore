@@ -1,1 +1,1 @@
-Peuple nomade des [[Hautes Terres de Velashu]] spécialisé dans l'élevage de chevaux. Ils vendent les meilleures montures de tout l'Avistan dans les diverses cités alentour.
+Peuple nomade des [[Hautes Terres de Velashu]] spécialisé dans l'élevage de chevaux. Ils vendent les meilleures montures de tout l'[[Avistan]] dans les diverses cités alentour.

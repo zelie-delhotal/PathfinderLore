@@ -1,2 +1,2 @@
 Père de [[Belven Valdemar]]
-Dernier fondateur de la [[Ligue Mercantile de Pointesable]] encore en vie, il est affecté par une infection pulmonaire et reste le plus souvent au [[Manoir des Valdemar]] et passe progressivement les pouvoirs de la maison à son fils.
+Dernier fondateur de la [[Ligue Mercantile de Pointesable]] encore en vie, il est affecté par une infection pulmonaire et reste le plus souvent au [[Manoir des Valdemar]] en passant progressivement les pouvoirs de la maison à son [fils]([[Belven Valdemar]]).

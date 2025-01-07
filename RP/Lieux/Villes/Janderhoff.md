@@ -1,1 +1,1 @@
-Citadelle céleste naine de Varisie.
+Citadelle céleste [[Nains|naine]] de [[Varisie]].

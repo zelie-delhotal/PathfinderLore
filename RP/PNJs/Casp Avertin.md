@@ -1,1 +1,1 @@
-Ancien prévot de [[Pointesable]], tué en 4702 AR par [[Jervis Stoot]]
+Ancien prévôt de [[Pointesable]], tué en 4702 AR par [[Jervis Stoot]]

@@ -1,2 +1,2 @@
-Le calendrier imperial (IC) est le calendrier le plus utilise au [[Tian Xia]].
+Le calendrier impérial (IC) est le calendrier le plus utilise au [[Tian Xia]].
 Il commence a la fondation du [[Yixing]], le premier empire du Tian Xia, exactement 2500 ans avant la fondation d'Absalom, ce qui rend aisée la conversion entre ce calendrier et le calendrier d'[[Absalom Ratifié]].

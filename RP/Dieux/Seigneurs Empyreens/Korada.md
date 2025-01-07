@@ -1,10 +1,2 @@
-Korada est le méditatif Seigneur du Lotus des Rêves, et ses
-fidèles sont principalement des moines, des ascètes, et ceux dont la vie est une union entre l’esprit, le corps et l’âme. Il est
-d’alignement Neutre Bon et ses domaines sont le Bien, la Magie,
-la Guérison et la Protection. Si le personnage est un fervent adepte
-de Korada, il se rase le crâne et sacrifie les plaisirs terrestres afin
-de contempler l’existence. Il n’élève jamais la voix ni ne perd
-son calme ; il est une île tranquille, même au milieu du chaos.
-Il salue ses coreligionnaires par une révérence et le toucher de
-deux doigts, et trouve les monastères dissimulés dans les
-montagnes éternelles ou les lointaines oasis du désert.
+Korada est le méditatif Seigneur du Lotus des Rêves, et ses fidèles sont principalement des moines, des ascètes, et ceux dont la vie est une union entre l’esprit, le corps et l’âme. Il est d’alignement Neutre Bon et ses domaines sont le Bien, la Magie, la Guérison et la Protection. Si le personnage est un fervent adepte de Korada, il se rase le crâne et sacrifie les plaisirs terrestres afin de contempler l’existence. Il n’élève jamais la voix ni ne perd son calme ; il est une île tranquille, même au milieu du chaos.
+Il salue ses coreligionnaires par une révérence et le toucher de deux doigts, et trouve les monastères dissimulés dans les montagnes éternelles ou les lointaines oasis du désert.

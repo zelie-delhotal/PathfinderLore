@@ -1,2 +1,2 @@
-Sage de Pointesable, véritable puits de connaissances. (Penser à le lancer sur le vieux phare)
-A ete a Janderhoff dans sa jeunesse avec les ingénieurs
+Sage de [[Pointesable]], véritable puits de connaissances, notamment au sujet des runes thassilonniennes dont le [[Vieux Phare]]
+A été a [[Janderhoff]] dans sa jeunesse avec les ingénieurs

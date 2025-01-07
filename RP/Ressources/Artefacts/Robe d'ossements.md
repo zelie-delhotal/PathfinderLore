@@ -1,1 +1,1 @@
-Robe qui permet de faire apparaître des morts vivants
+Robe magique qui permet de faire apparaître des morts vivants

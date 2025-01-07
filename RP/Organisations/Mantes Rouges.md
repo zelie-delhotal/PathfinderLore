@@ -1,1 +1,1 @@
-Guilde d'assassins venerant [[Achaékek]]
+Guilde d'assassins vénérant [[Achaékek]]

@@ -1,2 +1,2 @@
 1m80 barbe de 3 jours
-Possible commanditaire du passage a tabac de Tarin
+Commanditaire du passage a tabac de [[Milo le Tarin]]

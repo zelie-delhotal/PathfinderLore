@@ -1,1 +1,0 @@
-Est souvent aux [[Chariots de Wheen]], à la [[Myxine]] ou à l'[[Ossuaire]].

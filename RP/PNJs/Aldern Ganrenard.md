@@ -1,2 +1,1 @@
-Négociant Magnimarite
-Sejourne au dragon rouillé
+Négociant [Magnimarite]([[Magnimar]])

@@ -1,1 +1,2 @@
-Halfeline un peu agee serveuse au [[Dragon Rouillé]]
+Halfeline un peu âgée serveuse au [[Dragon Rouillé]].
+Elle parle le minkai.
