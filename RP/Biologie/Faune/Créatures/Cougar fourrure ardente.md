@@ -1,1 +1,1 @@
-Petit félin originaire de la région de [[Pointesable]] a la fourrure aux degrades noir et feu.
+Petit félin originaire de la région de [[Pointesable]] a la fourrure aux dégradés noir et feu.

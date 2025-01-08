@@ -78,7 +78,7 @@
       }
     },
     {
-      "query": "path:RP/Traditions  ",
+      "query": "path:RP/Concepts  ",
       "color": {
         "a": 1,
         "rgb": 10845184
@@ -112,10 +112,10 @@
   "nodeSizeMultiplier": 0.891145833333333,
   "lineSizeMultiplier": 1.04427083333333,
   "collapse-forces": false,
-  "centerStrength": 0.510416666666667,
-  "repelStrength": 10.3125,
-  "linkStrength": 0.880208333333333,
+  "centerStrength": 0.494791666666667,
+  "repelStrength": 8.54166666666667,
+  "linkStrength": 1,
   "linkDistance": 167,
-  "scale": 1.2414543899484238,
-  "close": false
+  "scale": 0.2292013594175195,
+  "close": true
 }

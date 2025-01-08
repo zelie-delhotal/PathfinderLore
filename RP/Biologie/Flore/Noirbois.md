@@ -1,2 +1,2 @@
-Le noirbois est un bois leger et solide naturellement resistant a l'eau. En tant que tel, c'est un bois très propice a la construction de navires.
+Le noirbois est un bois léger et solide naturellement résistant a l'eau. En tant que tel, c'est un bois très propice a la construction de navires.
 En mer intérieure, il pousse naturellement dans la [[Forêt Verduran]] ou les druides de la [[Loge de Bois-sauvage]] s'assurent de sa protection.

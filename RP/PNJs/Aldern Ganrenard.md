@@ -1,1 +1,1 @@
-Négociant [Magnimarite]([[Magnimar]])
+Négociant [Magnimarite]([[Magnimar]]])
