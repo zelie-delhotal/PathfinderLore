@@ -5,7 +5,7 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "path:RP/Lieux/Eau  ",
@@ -32,7 +32,7 @@
       "query": "path:RP/Lieux/Relief  ",
       "color": {
         "a": 1,
-        "rgb": 12912391
+        "rgb": 12929543
       }
     },
     {
@@ -112,10 +112,10 @@
   "nodeSizeMultiplier": 0.891145833333333,
   "lineSizeMultiplier": 1.04427083333333,
   "collapse-forces": false,
-  "centerStrength": 0.494791666666667,
-  "repelStrength": 8.54166666666667,
-  "linkStrength": 1,
+  "centerStrength": 0.333333333333333,
+  "repelStrength": 7.70833333333333,
+  "linkStrength": 0.869791666666667,
   "linkDistance": 167,
-  "scale": 0.2292013594175195,
+  "scale": 0.22920135941752742,
   "close": true
 }

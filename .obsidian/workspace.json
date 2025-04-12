@@ -55,10 +55,28 @@
             "id": "4f507b696642a7f6",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Histoire.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Histoire"
+            }
+          },
+          {
+            "id": "5434ce3ca58652c8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "RP/Dieux/Lamashtu.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Lamashtu"
             }
           },
           {
@@ -95,7 +113,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -219,32 +238,34 @@
   },
   "active": "4f507b696642a7f6",
   "lastOpenFiles": [
+    "RP/Dieux/Lamashtu.md",
+    "RP/PJs/Familiers/Sombrebrume.md",
+    "RP/PJs/Shearagh.md",
+    "RP/PJs/Ryze Aurelius.md",
+    "RP/PJs/Senshi.md",
     "Histoire.md",
-    "index.md",
-    "RP/PNJs/Kaye Tésarani.md",
-    "RP/PNJs/Leon.md",
-    "RP/PNJs/Milo le Tarin.md",
-    "RP/Concepts/Jeux/Tours.md",
-    "RP/Concepts/Jeu du Tourment/Jeu du Tourment.md",
-    "RP/Concepts/Zodiaque/le Wagon.md",
-    "RP/Concepts/Zodiaque/le Suivant.md",
-    "RP/Concepts/Zodiaque/le Rêveur.md",
-    "RP/Concepts/Zodiaque/le Pont.md",
-    "RP/Concepts/Zodiaque/le Patriarche.md",
-    "RP/Concepts/Zodiaque/la Meute.md",
-    "RP/Concepts/Zodiaque/la Mère.md",
-    "RP/Concepts/Zodiaque/les Mariés.md",
-    "RP/Concepts/Zodiaque/la Grive.md",
-    "RP/Concepts/Zodiaque/la Fille.md",
-    "RP/Concepts/Zodiaque/l'Étranger.md",
-    "RP/Concepts/Zodiaque/l'Éclaireur.md",
-    "RP/Concepts/Zodiaque/la Caravane Cosmique.md",
-    "RP/Concepts/Zodiaque/le Cavalier.md",
-    "RP/Concepts/Jeu du Tourment/Sagesse/le Perdu.md",
-    "RP/Concepts/Jeu du Tourment/Sagesse/la Sorcière muette.md",
-    "RP/Concepts/Jeu du Tourment/Sagesse/l'Eclipse.md",
-    "RP/Concepts/Jeu du Tourment/Sagesse/le Carnaval.md",
-    "RP/Concepts/Jeu du Tourment/Sagesse/le Hibou.md",
+    "RP/Temporalité/Evenements/Periodiques/Lâcher de Machaons.md",
+    "RP/PNJs/Vana Déverin.md",
+    "RP/Organisations/Société des explorateurs.md",
+    "RP/Organisations/Sczarni.md",
+    "RP/Organisations/Mantes Rouges.md",
+    "RP/Organisations/Loge de Bois-sauvage.md",
+    "RP/Organisations/Conseil Varisien.md",
+    "RP/Biologie/Flore/Baie de Gobelin.md",
+    "RP/PNJs/Amos Déverin.md",
+    "RP/Lieux/Villes/Pointesable.md",
+    "RP/Lieux/Régions/Marais Souchesalée.md",
+    "RP/Lieux/Régions/Irrisen.md",
+    "RP/Lieux/Villes/Troneblanc.md",
+    "RP/Ressources/Textes/Récits",
+    "RP/PJs/Azriel Draigyara.md",
+    "RP/PJs/Familiers/Haldmeer.md",
+    "RP/PJs/Familiers/Espoir.md",
+    "RP/Concepts/Langues/Shoanti.md",
+    "RP/Biologie/Flore/Noirbois.md",
+    "RP/Biologie/Faune/Humanoïdes/Gobelins.md",
+    "RP/Biologie/Faune/Humanoïdes/Gnomes.md",
+    "RP/Ressources/Textes/Texte sacrés",
     "RP/Concepts/Jeu du Tourment/Force/Untitled",
     "RP/Concepts/Jeu du Tourment/Charisme",
     "RP/Concepts/Jeu du Tourment/Sagesse",
@@ -253,7 +274,6 @@
     "RP/Concepts/Jeu du Tourment/Dexterite",
     "RP/Concepts/Jeu du Tourment/Force",
     "Fiche_a_remplir.pdf",
-    "pfco_06_guide_du_joueur_eveil_des_seigneurs_des_runes_web_v1.pdf",
     "Pasted image 20240630003916.png",
     "Galerie/Arriere-pays_pointesable.png",
     "Galerie/Ameiko.jpg",
@@ -264,7 +284,6 @@
     "Galerie/Pasted image 20240519181706.png",
     "Galerie/Pointesable.jpg",
     "Galerie/Shayliss_Vinder.PNG",
-    "RP/Lieux/Eau/Mers/Baies-Golfes",
     "RP/PJs/Untitled.canvas"
   ]
 }

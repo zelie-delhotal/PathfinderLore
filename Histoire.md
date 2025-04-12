@@ -98,7 +98,7 @@ Tribus gobelines : tribus des croqueurs d oiseaux vivent sur les grottes de la b
 Au sud dans le marais de souchesalee, les leche-crapauds, d excellents nageurs
 Les gobelins de bois-guibolle sont les 7 dents, qui pillent la decharge surement pour echanger et revendre aux autres gobelins.
 A le est les gobelins de bois moussus, les plus nombreux dont les nombreuses familles se livrent a des vendetta constante
-La tribu de pic charbon vivent sur une petite ile qui ressemblerait pour certains a une tête décapitée sur la cote nord du bois aux orties.
+La tribu de pic chardon vivent sur une petite ile qui ressemblerait pour certains a une tête décapitée sur la cote nord du bois aux orties.
 Les gobelins ont une existence violente et plutôt courte. Quand un gobelin commence a être connu, c est souvent merite. Il y a 6 heros dans la region : 
 Le grand Gukmut dans le bois moussu : Tres grand et musculeux, il serait le fils d une hobgobeline et d un sanglier
 Korius, champion des sept dents avec fort caractere et une epee longue magique forgee pour un humain. Il aurait disparu il y a plusieurs mois en trouvant un tresor dans une grotte. Certains disent qu'il est mort, d'autres qu'il protege farouchement son tresor.
@@ -186,7 +186,7 @@ A notre droite, au fond, le bois moussu. A notre gauche, le bois aux orties dans
 Ryze trébuche sur des plantes épineuses empoisonnées. La plante présente des petites baies vertes et est connue sous le nom de [[Baie de Gobelin]].
 Les ronces et les chardons sont encore plus touffus près de la cote. Il y a peu d'arbres mais les ronces gigantesques suffisent a les remplacer. Elles montent jusqu' a 6 mètres de haut !
 On trouve un tunnel d'environ 1m20 de haut sous les ronces, que nous décidons d'emprunter. Le sol est fait de terre battue. Des que nous pouvons relever la tête, nous tombons sur une salle au plafond bas ou couve un feu. Des lits sont dans les coins de la grotte.
-Le chef d'ici est tres mechant et vient de pic charbon. Il a jeté des membres de sa tribu dans le "trou qui hurle" qui mange des gobelins dans la mer.
+Le chef d'ici est tres mechant et vient de pic chardon. Il a jeté des membres de sa tribu dans le "trou qui hurle" qui mange des gobelins dans la mer.
 Nous gardons un gobelin sauf. Ryze discute avec lui grace a sa maitrise du gobelin. Il s'appelle [[Ruklut]]. Il accepte de nous guider jusqu'a Pic-Chardon pour qu'on élimine vole-pepite. Je pense qu'il saura de par sa situation entendre l'enseignement de Milani.
 *****
 20h
@@ -197,7 +197,7 @@ Un des cadavres tressaute étrangement
 Le sol et les murs de la pièce suivante sont couverts de touffes et de poils emmêles. Une douzaine de pieux sont fiches dans le sol et 4 chiens gobelins y sont attaches. Ceux-ci se ruent sur nous des qu'ils nous aperçoivent, arrachant immédiatement les pieux qui les retenaient a peine. Nous nous défendons sans difficulté contre ces pauvres bêtes qui n'ont probablement connu que la violence lors de leur courte existence.
 Azriel se laisse surprendre par un cougar fourrure ardente qui le mord a plusieurs reprises et l'amène au sol. 
 
-Un pont de corde 25m au dessus de l'eau et d'environ 16m relie la falaise a la petite ile circulaire de pic charbon.
+Un pont de corde 25m au dessus de l'eau et d'environ 16m relie la falaise a la petite ile circulaire de pic chardon.
 2 tours de guet de 9m de haut surmonte la palissade d'un étage qui entoure le camp gobelin.
 Nous délivrons Ruklut de ses obligations comme nous avions promis. On lui offre aussi l'armure du druide en remerciement. J'ai l'espoir que Milani puisse guider ses actes dans un futur proche, pour que l'équilibre entre les tribus soit rétabli au plus vite.
 
@@ -210,3 +210,9 @@ En entrant, le sol de la pièce est fait de terre battue. Plusieurs têtes de ch
 Les magiciens en profitent pour réexaminer la dague de la thassilonienne, c'est une dague boomerang en fer froid.
 Au milieu se trouve une large cour a ciel ouvert. Quelques touffes d'herbes poussent ca et la. 2 gobelins morts gisent au nord de la cour et des chiens gobelins nous attaquent.
 
+*****
+
+*****
+
+Dans une salle adjacente, un pilier herisse de pointes a des mains humanoides plantees dessus. Un gobelin chevauchant un gecko geant vient a notre rencontre et tente d'attirer le mage pour "discuter" avec lui. Trop de mefiance de notre part déclenche l'attaque.
+Il s'agit de vole pepites.

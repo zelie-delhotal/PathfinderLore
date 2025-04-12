@@ -1,2 +1,2 @@
 Ils donnent le nom de "grandes guibolles" aux races humanoïdes plus grandes qu'eux, sans distinction entre celles-ci.
-Les gobelins ont une existence violente et plutôt courte. Quand un gobelin commence a être connu, c est souvent qu'il a fait le nécessaire pour le mériter, et ses camarades ne tardent pas a le qualifier de héros.
+Les gobelins ont une existence violente et plutôt courte. Quand un gobelin commence a être connu, c'est souvent qu'il a fait le nécessaire pour le mériter, et ses camarades ne tardent pas a le qualifier de héros.
