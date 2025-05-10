@@ -1,0 +1,1 @@
+Creature gobelinoide d'environ 2m de haut. Transpire la méchanceté de ses petits yeux blancs. Si les [[Gobelins]] sont petits et stupide, cette creature n'est que cruelle, méchante et dangereuse et prend souvent la tete des bandes de gobelin.

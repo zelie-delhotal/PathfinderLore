@@ -1,1 +1,0 @@
-Aventurier retraité et magicien, il s'occupe aujourd'hui de l'[[Académie du Turandarok]]

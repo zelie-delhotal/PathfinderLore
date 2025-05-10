@@ -1,2 +1,0 @@
-Fils d'[[Alamon Scarnetti]], il sait que le souvenir de celui-ci n'est pas agréable pour tout le monde mais ne s'en est jamais montré affecté.
-Héritier d'une famille conservatrice et encore pétrie de valeurs [Chélaxiennes](Chéliax), il réside au [[Manoir des Scarnetti]].

@@ -1,1 +1,0 @@
-Cofondateur de la [[Brasserie des deux chevaliers]] avec son frère [[Gaven Déverin|Gaven]]

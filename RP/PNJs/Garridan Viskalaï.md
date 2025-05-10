@@ -1,1 +1,0 @@
-Tavernier du [[Cerf Blanc]]

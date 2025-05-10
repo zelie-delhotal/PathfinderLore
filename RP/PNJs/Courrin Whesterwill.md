@@ -1,1 +1,0 @@
-Meunier du [[Moulin Scarnetti]].

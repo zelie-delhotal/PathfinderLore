@@ -1,1 +1,0 @@
-Cheval de [[Senshi]]

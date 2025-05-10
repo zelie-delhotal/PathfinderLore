@@ -1,1 +1,0 @@
-Garde de [[Pointesable]], on peut le trouver à la [[Garnison]].

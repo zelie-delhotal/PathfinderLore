@@ -57,40 +57,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Histoire.md",
+                "file": "Sources.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Histoire"
-            }
-          },
-          {
-            "id": "5434ce3ca58652c8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "RP/Dieux/Lamashtu.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Lamashtu"
-            }
-          },
-          {
-            "id": "a445d72ca85d0f80",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "RP/Organisations/Loge de Bois-sauvage.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Loge de Bois-sauvage"
+              "title": "Sources"
             }
           }
         ],
@@ -238,33 +210,38 @@
   },
   "active": "4f507b696642a7f6",
   "lastOpenFiles": [
-    "RP/Dieux/Lamashtu.md",
-    "RP/PJs/Familiers/Sombrebrume.md",
-    "RP/PJs/Shearagh.md",
-    "RP/PJs/Ryze Aurelius.md",
-    "RP/PJs/Senshi.md",
-    "Histoire.md",
-    "RP/Temporalité/Evenements/Periodiques/Lâcher de Machaons.md",
-    "RP/PNJs/Vana Déverin.md",
-    "RP/Organisations/Société des explorateurs.md",
-    "RP/Organisations/Sczarni.md",
-    "RP/Organisations/Mantes Rouges.md",
-    "RP/Organisations/Loge de Bois-sauvage.md",
-    "RP/Organisations/Conseil Varisien.md",
-    "RP/Biologie/Flore/Baie de Gobelin.md",
-    "RP/PNJs/Amos Déverin.md",
-    "RP/Lieux/Villes/Pointesable.md",
-    "RP/Lieux/Régions/Marais Souchesalée.md",
-    "RP/Lieux/Régions/Irrisen.md",
-    "RP/Lieux/Villes/Troneblanc.md",
-    "RP/Ressources/Textes/Récits",
-    "RP/PJs/Azriel Draigyara.md",
-    "RP/PJs/Familiers/Haldmeer.md",
-    "RP/PJs/Familiers/Espoir.md",
+    "RP/Biologie/Faune/Créatures/Gobelours.md",
+    "Sources.md",
     "RP/Concepts/Langues/Shoanti.md",
-    "RP/Biologie/Flore/Noirbois.md",
-    "RP/Biologie/Faune/Humanoïdes/Gobelins.md",
-    "RP/Biologie/Faune/Humanoïdes/Gnomes.md",
+    "Runelords",
+    "RP/Concepts/Jeux/Tours.md",
+    "RP/Concepts/Jeu du Tourment/Charisme/la Courtisane.md",
+    "RP/Concepts/Jeu du Tourment/Charisme/le Tyran.md",
+    "RP/Concepts/Jeu du Tourment/Charisme/le Trône vide.md",
+    "RP/Concepts/Jeu du Tourment/Charisme/le Théâtre.md",
+    "RP/Concepts/Jeu du Tourment/Charisme/le Mariage.md",
+    "RP/Concepts/Jeu du Tourment/Charisme/la Licorne.md",
+    "Runelords/PNJs/Titus Scarnetti.md",
+    "Runelords/PNJs/Tsuto Kaijitsu.md",
+    "Runelords/PNJs/Turch Sterglus.md",
+    "Runelords/PNJs/Vana Déverin.md",
+    "Runelords/PNJs/Ven Vinder.md",
+    "Runelords/PNJs/Volioker Briskalberd.md",
+    "Runelords/PNJs/Vorvashali Voon.md",
+    "Runelords/PNJs/Wade Déverin.md",
+    "RP/Lieux/Lieux d'intérêt/Escaliers de Storval.md",
+    "RP/Lieux/Lieux d'intérêt/Flèche de Lemriss.md",
+    "RP/Dieux/Lamashtu.md",
+    "Runelords/Histoire.md",
+    "Runelords/pfco_06_guide_du_joueur_eveil_des_seigneurs_des_runes_web_v1.pdf",
+    "Runelords/index.md",
+    "Galerie/Pasted image 20240630003916.png",
+    "Untitled.canvas",
+    "Galerie/Tsuto_Kaijitsu.jpg",
+    "RP/Lieux/Villes/Pointesable/Musette de l'Homme Gras.md",
+    "RP/Dieux/Irori.md",
+    "RP/Dieux/Shélyn.md",
+    "RP/Ressources/Textes/Récits",
     "RP/Ressources/Textes/Texte sacrés",
     "RP/Concepts/Jeu du Tourment/Force/Untitled",
     "RP/Concepts/Jeu du Tourment/Charisme",
@@ -272,9 +249,6 @@
     "RP/Concepts/Jeu du Tourment/Intelligence",
     "RP/Concepts/Jeu du Tourment/Constitution",
     "RP/Concepts/Jeu du Tourment/Dexterite",
-    "RP/Concepts/Jeu du Tourment/Force",
-    "Fiche_a_remplir.pdf",
-    "Pasted image 20240630003916.png",
     "Galerie/Arriere-pays_pointesable.png",
     "Galerie/Ameiko.jpg",
     "Galerie/Belor_Cigue.jpg",
@@ -283,7 +257,6 @@
     "Galerie/Pasted image 20240519181617.png",
     "Galerie/Pasted image 20240519181706.png",
     "Galerie/Pointesable.jpg",
-    "Galerie/Shayliss_Vinder.PNG",
     "RP/PJs/Untitled.canvas"
   ]
 }

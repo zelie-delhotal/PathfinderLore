@@ -1,1 +1,0 @@
-Vendeuse de la [[Boutique de Pointesable et d'ailleurs]]

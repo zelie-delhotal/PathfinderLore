@@ -1,1 +1,0 @@
-Korius est un gobelin des environs de [[Pointesable]], champion de la tribu des [[Tribu des Sept Dents]] avec un fort caractère et une épée longue magique forgée pour un humain, donc trop longue pour lui. Il aurait disparu il y a plusieurs mois en trouvant un trésor dans une grotte. Certains disent qu'il est mort, d'autres qu'il protège farouchement son trésor.

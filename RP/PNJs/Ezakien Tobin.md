@@ -1,1 +1,0 @@
-Ancient prêtre de [[Desna]] à la [[Cathédrale]] de [[Pointesable]], mort dans l'incendie de l'église en 4702 AR.

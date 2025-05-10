@@ -1,1 +1,0 @@
-Tenancière de la taverne de la [[Myxine]]

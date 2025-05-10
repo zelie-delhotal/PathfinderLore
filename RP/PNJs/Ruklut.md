@@ -1,1 +1,0 @@
-Gobelin de la tribu des [[Croqueurs d'oiseaux]]. Suite au fait que les aventuriers de Pointesable l'aient épargné, 

@@ -1,1 +1,0 @@
-Chef spirituel de l'église de [[Pointesable]]

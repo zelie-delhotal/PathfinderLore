@@ -1,1 +1,0 @@
-Tanneur à la [[Tannerie de Rovansky]] à Pointesable
