@@ -1,0 +1,1 @@
+Peu de gens réalisent que l’énorme taverne si populaire de Kennewik Masi (humain (f ) prêtre 4, CB) est aussi le temple officieux de [[Cayden Cailéan]] à [[Port-Peril]]. La plupart des gens pensent que la taille imposante de la bâtisse et le symbole sacré placé sur le dôme de bronze terni ne sont que des éléments de décoration élaborés.

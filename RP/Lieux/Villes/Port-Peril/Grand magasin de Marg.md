@@ -1,0 +1,2 @@
+Cette boutique se situe dans un étroit passage entre deux cavernes de l’Entrelacs, ce qui oblige les gens à la traverser.
+Elle appartient à Marg « la Miteuse » Martols (humain (f ) barde 2, N) et elle est réputée pour être l’endroit idéal où vendre à peu près tout et n’importe quoi. Marg a un éventail de bric-à-brac issu de toute la mer Intérieure à nul autre pareil, à tel point que le magasin est devenu une sorte d’attraction pour les visiteurs et les amateurs de curiosités, tout comme sa propriétaire qui a un penchant pour les histoires impromptues et les belles paroles.

@@ -1,0 +1,1 @@
+Ces tunnels menant dans une caverne d’expatriés sargaviens s’est inexplicablement effondrée il y a un peu plus d’un an. Comme personne ne se souciait suffisamment des occupants des lieux pour les sortir de là, la grotte est restée bloquée... bien que certaines personnes disent entendre des grattements et des bruits de pas venant de l’intérieur.

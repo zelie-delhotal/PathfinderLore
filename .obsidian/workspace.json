@@ -15,8 +15,17 @@
               "state": {
                 "file": "RP/Biologie/Faune/Humanoïdes/Gobelins.md",
                 "mode": "source",
+                "source": false,
                 "backlinks": true,
-                "source": false
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
               "title": "Gobelins"
@@ -26,14 +35,10 @@
             "id": "64fe64721c25d165",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "RP/PNJs/Sabyl Sorn.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Sabyl Sorn"
+              "title": "New tab"
             }
           },
           {
@@ -42,31 +47,17 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "RP/Lieux/Relief/Monts Pierreux.md",
+                "file": "RP/Lieux/Villes/Port-Peril/Vent d'est.md",
                 "mode": "source",
-                "backlinks": true,
-                "source": false
+                "source": false,
+                "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Monts Pierreux"
-            }
-          },
-          {
-            "id": "4f507b696642a7f6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sources.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Sources"
+              "title": "Vent d'est"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -208,47 +199,47 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4f507b696642a7f6",
+  "active": "ea8595e89e5aabfd",
   "lastOpenFiles": [
-    "RP/Biologie/Faune/Créatures/Gobelours.md",
-    "Sources.md",
-    "RP/Concepts/Langues/Shoanti.md",
+    "RP/Lieux/Villes/Port-Peril/Rôder en eau douce.md",
+    "RP/Lieux/Villes/Port-Peril/Vent d'est.md",
+    "RP/Lieux/Villes/Port-Peril/Nouvelle Éléder.md",
+    "RP/Lieux/Villes/Port-Peril/Mouillage du Spectre des mers.md",
+    "RP/Lieux/Villes/Port-Peril/Viandes exotiques de F & M.md",
+    "RP/Lieux/Villes/Port-Peril/Mares de sang.md",
+    "RP/Lieux/Villes/Port-Peril/Seau de la sirène.md",
+    "RP/Lieux/Villes/Port-Peril/Salon de danse des morts.md",
+    "RP/Lieux/Villes/Port-Peril/Roncier des mendiants.md",
+    "RP/Lieux/Villes/Port-Peril/Port du Croissant.md",
+    "RP/Lieux/Villes/Port-Peril/Passage vers la liberte.md",
+    "RP/Lieux/Villes/Port-Peril/Camp du Poisson séché.md",
+    "RP/Lieux/Villes/Port-Peril/Grand magasin de Marg.md",
+    "RP/Lieux/Villes/Port-Peril/Coffre.md",
+    "RP/Lieux/Villes/Port-Peril/Redoute du mystique.md",
+    "RP/Lieux/Villes/Port-Peril/place Engloutie.md",
+    "RP/Lieux/Villes/Port-Peril/Marina marchande.md",
+    "RP/Lieux/Villes/Port-Peril/Loge du chef des Bekyars.md",
+    "RP/Lieux/Villes/Port-Peril/Fosse du capitaine.md",
+    "RP/Lieux/Villes/Port-Peril/Demeure de Sminargent.md",
+    "RP/Lieux/Villes/Port-Peril/Bonne Facture.md",
+    "RP/Lieux/Villes/Port-Peril/La Chope et le gouvernail.md",
+    "RP/Lieux/Villes/Port-Peril/Chapelle de la destruction marine.md",
+    "RP/Lieux/Villes/Port-Peril/Cale d'Argent.md",
+    "RP/Lieux/Villes/Port-Peril/Entrelacs.md",
+    "RP/Lieux/Villes/Port-Peril/Gravure sur ivoire.md",
+    "RP/Ressources/Potions",
+    "RP/Lieux/Villes/Port-Peril",
+    "Shackles/Vaisseaux/Untitled",
+    "Shackles/Vaisseaux",
+    "RP/Personnages",
+    "RP/Personnages",
+    "Shackles/PNJs",
+    "Shackles/PJs",
     "Runelords",
-    "RP/Concepts/Jeux/Tours.md",
-    "RP/Concepts/Jeu du Tourment/Charisme/la Courtisane.md",
-    "RP/Concepts/Jeu du Tourment/Charisme/le Tyran.md",
-    "RP/Concepts/Jeu du Tourment/Charisme/le Trône vide.md",
-    "RP/Concepts/Jeu du Tourment/Charisme/le Théâtre.md",
-    "RP/Concepts/Jeu du Tourment/Charisme/le Mariage.md",
-    "RP/Concepts/Jeu du Tourment/Charisme/la Licorne.md",
-    "Runelords/PNJs/Titus Scarnetti.md",
-    "Runelords/PNJs/Tsuto Kaijitsu.md",
-    "Runelords/PNJs/Turch Sterglus.md",
-    "Runelords/PNJs/Vana Déverin.md",
-    "Runelords/PNJs/Ven Vinder.md",
-    "Runelords/PNJs/Volioker Briskalberd.md",
-    "Runelords/PNJs/Vorvashali Voon.md",
-    "Runelords/PNJs/Wade Déverin.md",
-    "RP/Lieux/Lieux d'intérêt/Escaliers de Storval.md",
-    "RP/Lieux/Lieux d'intérêt/Flèche de Lemriss.md",
-    "RP/Dieux/Lamashtu.md",
-    "Runelords/Histoire.md",
     "Runelords/pfco_06_guide_du_joueur_eveil_des_seigneurs_des_runes_web_v1.pdf",
-    "Runelords/index.md",
     "Galerie/Pasted image 20240630003916.png",
     "Untitled.canvas",
     "Galerie/Tsuto_Kaijitsu.jpg",
-    "RP/Lieux/Villes/Pointesable/Musette de l'Homme Gras.md",
-    "RP/Dieux/Irori.md",
-    "RP/Dieux/Shélyn.md",
-    "RP/Ressources/Textes/Récits",
-    "RP/Ressources/Textes/Texte sacrés",
-    "RP/Concepts/Jeu du Tourment/Force/Untitled",
-    "RP/Concepts/Jeu du Tourment/Charisme",
-    "RP/Concepts/Jeu du Tourment/Sagesse",
-    "RP/Concepts/Jeu du Tourment/Intelligence",
-    "RP/Concepts/Jeu du Tourment/Constitution",
-    "RP/Concepts/Jeu du Tourment/Dexterite",
     "Galerie/Arriere-pays_pointesable.png",
     "Galerie/Ameiko.jpg",
     "Galerie/Belor_Cigue.jpg",

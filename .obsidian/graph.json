@@ -8,98 +8,98 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "path:RP/Lieux/Eau  ",
+      "query": "path:Eau/",
       "color": {
         "a": 1,
         "rgb": 1132706
       }
     },
     {
-      "query": "path:RP/Biologie/Flore  ",
+      "query": "path:Flore/",
       "color": {
         "a": 1,
         "rgb": 510475
       }
     },
     {
-      "query": "path:RP/Lieux/Forêts  ",
+      "query": "path:Forêts/  ",
       "color": {
         "a": 1,
         "rgb": 677651
       }
     },
     {
-      "query": "path:RP/Lieux/Relief  ",
+      "query": "path:Relief/  ",
       "color": {
         "a": 1,
         "rgb": 12929543
       }
     },
     {
-      "query": "path:RP/Lieux/Plans  ",
+      "query": "path:Plans/  ",
       "color": {
         "a": 1,
         "rgb": 5771136
       }
     },
     {
-      "query": "path:RP/Lieux/Villes  ",
+      "query": "path:Villes/  ",
       "color": {
         "a": 1,
         "rgb": 6073814
       }
     },
     {
-      "query": "path:RP/Dieux  ",
+      "query": "path:Dieux/  ",
       "color": {
         "a": 1,
         "rgb": 16731641
       }
     },
     {
-      "query": "path:PNJs  ",
+      "query": "path:PNJs/  ",
       "color": {
         "a": 1,
         "rgb": 13095464
       }
     },
     {
-      "query": "path:PJs ",
+      "query": "path:PJs/ ",
       "color": {
         "a": 1,
         "rgb": 15893532
       }
     },
     {
-      "query": "path:RP/Ressources  ",
+      "query": "path:Ressources/  ",
       "color": {
         "a": 1,
         "rgb": 16777215
       }
     },
     {
-      "query": "path:RP/Concepts  ",
+      "query": "path:Concepts/  ",
       "color": {
         "a": 1,
         "rgb": 10845184
       }
     },
     {
-      "query": "path:RP/Lieux/Routes  ",
+      "query": "path:Routes/  ",
       "color": {
         "a": 1,
         "rgb": 9835283
       }
     },
     {
-      "query": "path:RP/Lieux/Régions  ",
+      "query": "path:Régions/  ",
       "color": {
         "a": 1,
         "rgb": 6084188
       }
     },
     {
-      "query": "path:RP/Temporalité  ",
+      "query": "path:Temporalité/  ",
       "color": {
         "a": 1,
         "rgb": 4869965
@@ -116,6 +116,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.1749133736918867,
+  "scale": 0.11660891579459112,
   "close": true
 }

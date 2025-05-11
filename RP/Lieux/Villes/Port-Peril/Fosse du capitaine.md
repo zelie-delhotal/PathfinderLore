@@ -1,0 +1,1 @@
+On dit que c’est dans cette fosse que le capitaine demi-orque Jolb Pleindoigts a caché le butin de toute sa vie de pirate, mais ce trou puant s’enfonce très loin sous les grottes de l’Entrelacs, jusqu’en Ombreterre d’après certains. Cependant, personne ne sait vraiment jusqu’où descend la fosse car le vieux Jolb a disparu là il y a plus de 20 ans.

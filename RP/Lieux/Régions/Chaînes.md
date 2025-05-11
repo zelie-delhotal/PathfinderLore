@@ -1,0 +1,3 @@
+Les Capitaines libres des Chaînes donnent depuis bien longtemps du fil à retordre aux nations de la mer Intérieure, et aucun pays n’a autant souffert de leurs déprédations que le [[Chéliax]]. Malheureusement, il est pratiquement impossible de lancer une invasion pour se débarrasser de la menace des pirates à cause des vents mugissants et des courants meurtriers de l’[[Œil d'Abendégo]]. Depuis la défaite de deux de ses flottes chélaxiennes, en 4643 et en 4660 AR, la maison Thrune n’attend qu’une chose,
+prendre sa revanche et se saisir enfin de l’occasion d’éliminer
+définitivement la confédération des pirates.

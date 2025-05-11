@@ -1,0 +1,1 @@
+Le seul moyen d’entrer à [[Port-Peril]] par voie de terre, c’est d’emprunter ce réseau de cavernes sinueux, chichement éclairé et encore plus mal indiqué. Entre les rumeurs parlant de grognements dans les ténèbres, de brigands discrets et de pêcheurs des grottes, la plupart des gens préfèrent prendre une barge au Roncier des mendiants pour entrer en ville.

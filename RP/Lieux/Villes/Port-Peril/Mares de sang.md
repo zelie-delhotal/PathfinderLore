@@ -1,0 +1,1 @@
+Des mares pleines de curieux oursins occupent une bonne partie d'une grotte de l'[[Entrelacs]]. On dit que ces mares cachent un passage vers la mer, a l'est de la ville, ce qui expliquerait pourquoi des gens ont vu des hommes-poissons et d’étranges creatures dans les eaux.

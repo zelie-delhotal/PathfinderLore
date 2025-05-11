@@ -1,0 +1,1 @@
+Le Polyglotte, ou Mwangi est le nom donne aux different dialectes des peuples [[Mwangi]], habitant principalement au [[Garund]] central et occidental.

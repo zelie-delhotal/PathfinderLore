@@ -1,0 +1,1 @@
+Ces fines feuilles de couleur rouille produisent une fumée légèrement hallucinogène qui sert également de puissant sédatif. Les utilisateurs sont immunisés contre la douleur pendant 4 heures après avoir fumé de l’écorchefeuille, mais pendant ce temps, ils sont plus sensibles aux effets altérant l'esprit. 
