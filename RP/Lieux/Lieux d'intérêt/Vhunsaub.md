@@ -1,0 +1,1 @@
+Enfouies loin sous les eaux des Chaînes, ces ruines englouties étaient peut-être la trésorerie de la société du Ghol-Gan vivant près des [[Îles Cannibales]]. Beaucoup de gens ont tenté de découvrir quels trésors se cachent dans ses caveaux mais bien peu ont seulement réussi à franchir ses portes, jalousement gardées par un serpent de mer asservi par magie.

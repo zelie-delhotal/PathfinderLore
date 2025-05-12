@@ -4,60 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "9ded8465008eb2e3",
+        "id": "5cf229cf0928eeaf",
         "type": "tabs",
         "children": [
           {
-            "id": "cbf816201c9cac3c",
+            "id": "2acc6e1ad3a03b2c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "RP/Biologie/Faune/Humanoïdes/Gobelins.md",
+                "file": "RP/Biologie/Faune/Créatures/Chickcharney.md",
                 "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "Gobelins"
-            }
-          },
-          {
-            "id": "64fe64721c25d165",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "ea8595e89e5aabfd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "RP/Lieux/Villes/Port-Peril/Vent d'est.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Vent d'est"
+              "title": "Chickcharney"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -199,34 +163,35 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ea8595e89e5aabfd",
+  "active": "2acc6e1ad3a03b2c",
   "lastOpenFiles": [
-    "RP/Lieux/Villes/Port-Peril/Rôder en eau douce.md",
-    "RP/Lieux/Villes/Port-Peril/Vent d'est.md",
-    "RP/Lieux/Villes/Port-Peril/Nouvelle Éléder.md",
-    "RP/Lieux/Villes/Port-Peril/Mouillage du Spectre des mers.md",
-    "RP/Lieux/Villes/Port-Peril/Viandes exotiques de F & M.md",
-    "RP/Lieux/Villes/Port-Peril/Mares de sang.md",
-    "RP/Lieux/Villes/Port-Peril/Seau de la sirène.md",
-    "RP/Lieux/Villes/Port-Peril/Salon de danse des morts.md",
-    "RP/Lieux/Villes/Port-Peril/Roncier des mendiants.md",
-    "RP/Lieux/Villes/Port-Peril/Port du Croissant.md",
-    "RP/Lieux/Villes/Port-Peril/Passage vers la liberte.md",
-    "RP/Lieux/Villes/Port-Peril/Camp du Poisson séché.md",
-    "RP/Lieux/Villes/Port-Peril/Grand magasin de Marg.md",
-    "RP/Lieux/Villes/Port-Peril/Coffre.md",
-    "RP/Lieux/Villes/Port-Peril/Redoute du mystique.md",
-    "RP/Lieux/Villes/Port-Peril/place Engloutie.md",
-    "RP/Lieux/Villes/Port-Peril/Marina marchande.md",
-    "RP/Lieux/Villes/Port-Peril/Loge du chef des Bekyars.md",
-    "RP/Lieux/Villes/Port-Peril/Fosse du capitaine.md",
-    "RP/Lieux/Villes/Port-Peril/Demeure de Sminargent.md",
-    "RP/Lieux/Villes/Port-Peril/Bonne Facture.md",
-    "RP/Lieux/Villes/Port-Peril/La Chope et le gouvernail.md",
-    "RP/Lieux/Villes/Port-Peril/Chapelle de la destruction marine.md",
-    "RP/Lieux/Villes/Port-Peril/Cale d'Argent.md",
-    "RP/Lieux/Villes/Port-Peril/Entrelacs.md",
-    "RP/Lieux/Villes/Port-Peril/Gravure sur ivoire.md",
+    "RP/Biologie/Faune/Créatures/Chickcharney.md",
+    "RP/Lieux/Eau/Îles/Vaelyn et Kellan.md",
+    "RP/Lieux/Eau/Îles/Ungoro Tedar.md",
+    "RP/Lieux/Eau/Îles/Sarenvent.md",
+    "RP/Lieux/Eau/Îles/Sanction d'Haekin.md",
+    "RP/Lieux/Eau/Îles/Roc de Taypan.md",
+    "RP/Lieux/Eau/Îles/Parapet de Moluune.md",
+    "RP/Lieux/Eau/Îles/Paeterpade.md",
+    "RP/Lieux/Eau/Îles/Onokin.md",
+    "RP/Lieux/Eau/Îles/Ménagerie de Culp.md",
+    "RP/Peuples et Ethnies/Gobelins/Grandspiquants.md",
+    "RP/Peuples et Ethnies/Gobelins/Sombre crochets.md",
+    "RP/Peuples et Ethnies/Gobelins/Coureurs de recif.md",
+    "RP/Peuples et Ethnies/Gobelins/Sifflecalmars.md",
+    "RP/Lieux/Eau/Îles/Refuge de Sai Riang.md",
+    "RP/Lieux/Eau/Îles/Îlot de Fernlat.md",
+    "RP/Lieux/Eau/Îles/Île de l’Achèvement.md",
+    "RP/Lieux/Eau/Îles/Atoll de Bhudrek.md",
+    "RP/Lieux/Eau/Îles/Banc de la tempête.md",
+    "RP/Lieux/Eau/Îles/Banc de la tempete.md",
+    "RP/Lieux/Eau/Îles/Assiette de Darguro.md",
+    "RP/Lieux/Régions/Chaînes.md",
+    "RP/Lieux/Lieux d'intérêt/Tourbillon des cécaëlias.md",
+    "RP/Lieux/Villes/Reine Bes.md",
+    "RP/Lieux/Eau/Îles/Trône de Besmara.md",
+    "RP/Lieux/Eau/Îles/Île Sacrée.md",
+    "RP/Concepts/Cultes",
     "RP/Ressources/Potions",
     "RP/Lieux/Villes/Port-Peril",
     "Shackles/Vaisseaux/Untitled",
@@ -236,7 +201,6 @@
     "Shackles/PNJs",
     "Shackles/PJs",
     "Runelords",
-    "Runelords/pfco_06_guide_du_joueur_eveil_des_seigneurs_des_runes_web_v1.pdf",
     "Galerie/Pasted image 20240630003916.png",
     "Untitled.canvas",
     "Galerie/Tsuto_Kaijitsu.jpg",

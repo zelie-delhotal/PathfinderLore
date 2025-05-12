@@ -1,0 +1,2 @@
+Village [[Kurus]] sur les [[Îles Cannibales]]
+Cela fait si longtemps que le village de [[Kukgukmol]] est en guerre avec celui de [[Heggapnod]] que la plupart des guerriers ignorent ce qui a déclenché les hostilités. Leur population respective diminue si rapidement que, si aucune force ne s’interpose, ils devraient rapidement s’annihiler mutuellement. De son côté, la Reine sanglante apprécie beaucoup ces bains de sang et observe les massacres hebdomadaires à travers les yeux de ses fidèles présents dans chaque village.

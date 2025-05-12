@@ -1,0 +1,3 @@
+L'Île de l’Achèvement est la plus au nord de toutes les [[Chaînes]] et la plus proche de l'[[Œil d'Abendégo]].
+Les membres de la secte du culte de l’œil sont censés se rendre en pèlerinage dans l’île et se soumettre à une cérémonie dans un temple en partie submergé reconverti à partir de ruines du Ghol-Gan.
+Le mystérieux grand prêtre du culte de l’Œil dirige cette petite communauté d’une centaine d’acolytes et d’aspirants de sa nouvelle religion. Les religions déjà en place s’inquiètent à propos des pratiques secrètes du culte et craignent qu’il ne se trame quelque chose d’horrifiant.

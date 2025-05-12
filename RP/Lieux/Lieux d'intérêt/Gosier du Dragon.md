@@ -1,0 +1,2 @@
+Le Gosier du Dragon est un immense tunnel situe sur le [[Croc de Dahak]] ou [[Aashaq]] cache son tresor.
+L’entrée du Gosier n’est autre qu’une grotte dissimulée au fond du lac Rogshagrox qui mène à une unique caverne verticale de six kilomètres de long. Seules les créatures les plus résistantes supportent la chaleur qui règne au fond du Gosier mais celles qui parviennent à endurer ces températures souterraines extrêmes ont de grandes chances de découvrir la cachette où Aashaq conserve son or, ses bijoux et ses antiques artefacts.

@@ -1,0 +1,5 @@
+L’île de Nalt est une île des [[Chaînes]] située a l'est de l'[[Île du Requin]].
+L’histoire du contrebandier Nalt Tarbrow, de son ascension au pouvoir, de sa plongée dans la folie et de son auto-immolation est bien connue dans toutes les Chaînes et au-delà. Ces événements se sont déroulés il y a près de cent ans mais l’île portant le nom du contrebandier génère encore aujourd’hui un sentiment de peur et d’avarice.
+
+Les marins désireux de contourner les eaux hostiles de l’île du Requin, à l’est, empruntent parfois le détroit passant entre l’île de l’Arc rouge et celle de Nalt, mais ces malheureux se prennent alors souvent à souhaiter avoir affronté les eaux grouillantes de sahuagins, car beaucoup périssent sous les vagues du tourbillon perpétuel qui tournoie sous les chutes rugissantes de la cataracte côtière appelée la chute du Tourbillon.
+On raconte que ce tourbillon meurtrier est l’œuvre de deux charybdes. 

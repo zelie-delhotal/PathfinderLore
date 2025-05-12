@@ -1,0 +1,3 @@
+A l'entree de la crique a l'ouest du [[Trône de Besmara]] se trouve une chute d'eau que l'on appelle le Tourbillon des cécaëlias.
+Une tribu imprévisible de créatures octopodes habite dans les remous de la chute d’eau et lui a donne son nom.
+Ils vivent sous la houlette d’une prêtresse de Besmara. Ogolomae (cécaëlia (f ) prêtre de Besmara 5, CN) est entourée d’une garde d’honneur composée de rôdeurs de talent et elle est connue pour perdre rapidement patience quand quelqu’un la dérange alors qu’il n’est ni un prêtre ni un fidèle de sa déesse. Sous la chute, une vaste caverne marine recèle une grande collection de biens ayant appartenu à ce genre d’intrus impies.

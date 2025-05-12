@@ -1,0 +1,4 @@
+Il y a plus de 200 ans, l’ensorceleur Hegesander de Manaket (elfe d’un grand âge (m) ensorceleur 12, CM) est arrivé sur l’île de Paeterpade. Ses plaines herbeuses étaient vides, à l’exception de la haute tour originaire du Ghol-Gan se dressant en leur centre. Hegesander
+a impulsivement activé une machine dans les inquiétants donjons de la tour et, depuis, l’île est détachée de la réalité et clignote dans tout le multivers, apparemment au hasard.
+La légende dit qu’Hegesander est devenu fou, qu’il est piégé à jamais sur son île et que cette dernière réapparaît dans les [[Chaînes]] seulement une ou deux fois par an, au sud de l'[[Île du Requin]]. Elle y reste à peine un jour ou deux avant de disparaître vers une destination
+aléatoire. Les gens assez téméraires pour débarquer sur le rivage de Paeterpade lors de ses brèves apparitions ont été attirés dans la tour et faits prisonniers avec Hegesander le dément.

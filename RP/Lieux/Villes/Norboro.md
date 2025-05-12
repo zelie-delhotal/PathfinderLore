@@ -1,0 +1,1 @@
+Norboro a été le deuxième village du [[Roc de Whyrlis]], fondé juste six mois après Baie d’Heskott. Toute la ville s’est changée en cendres, comme après une éruption volcanique, à peu près à la période où les habitants de sa voisine se sont évaporés.

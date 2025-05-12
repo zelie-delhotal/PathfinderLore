@@ -1,0 +1,1 @@
+Zhenbarghua est le village kuru le plus à l’ouest des [[Îles Cannibales]] et des Chaînes et c’est peut-être le moins dévoué à la Reine sanglante. Les rares [[Kurus]] qui parviennent à échapper à la barbarie de leur foyer en quête d’autre chose viennent souvent de cette petite société progressiste.
