@@ -1,0 +1,2 @@
+Le détroit d'Aashaq, dans les [[Chaînes]], est le dangereux passage au milieu des [[Dents de Dahak]].
+Au sud-est se trouve l’île du [[Croc de Dahak]] oriental, tandis qu'au nord-est se succèdent la [[Corne de Dahak]] et la [[Dent de Dahak]].

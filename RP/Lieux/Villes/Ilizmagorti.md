@@ -1,1 +1,1 @@
-Ancien havre de pirates, la vile est désormais au mains des [[Mantes Rouges]]
+Ancien havre de pirates, la vile de l’Île Mediogalti est désormais au mains des [[Mantes Rouges]]

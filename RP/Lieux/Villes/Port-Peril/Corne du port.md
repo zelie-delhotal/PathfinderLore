@@ -1,1 +1,1 @@
-La tour trapue du capitaine du port, Kreidoros, se dresse sur une langue de terre dépassant du port du Croissant. Il est rare qu’il se passe quoi que ce soit en vue de la tour sans que l’austère nain et ses sbires ne soient au courant.
+La tour trapue du capitaine du port de [[Port-Péril]], Kreidoros, se dresse sur une langue de terre dépassant du [[Port du Croissant]]. Il est rare qu’il se passe quoi que ce soit en vue de la tour sans que l’austère nain et ses sbires ne soient au courant.

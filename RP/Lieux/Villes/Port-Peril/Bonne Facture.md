@@ -1,1 +1,1 @@
-Taverne mal famee de [[Port-Péril]]
+Taverne mal famée de [[Port-Péril]]

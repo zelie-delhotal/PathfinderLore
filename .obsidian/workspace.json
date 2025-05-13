@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "RP/Biologie/Faune/Créatures/Chickcharney.md",
+                "file": "RP/Lieux/Villes/Port-Peril/Place Engloutie.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Chickcharney"
+              "title": "Place Engloutie"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 287.5
   },
   "right": {
     "id": "b166b9c808557477",
@@ -165,32 +165,32 @@
   },
   "active": "2acc6e1ad3a03b2c",
   "lastOpenFiles": [
-    "RP/Biologie/Faune/Créatures/Chickcharney.md",
-    "RP/Lieux/Eau/Îles/Vaelyn et Kellan.md",
-    "RP/Lieux/Eau/Îles/Ungoro Tedar.md",
-    "RP/Lieux/Eau/Îles/Sarenvent.md",
-    "RP/Lieux/Eau/Îles/Sanction d'Haekin.md",
-    "RP/Lieux/Eau/Îles/Roc de Taypan.md",
-    "RP/Lieux/Eau/Îles/Parapet de Moluune.md",
-    "RP/Lieux/Eau/Îles/Paeterpade.md",
-    "RP/Lieux/Eau/Îles/Onokin.md",
-    "RP/Lieux/Eau/Îles/Ménagerie de Culp.md",
-    "RP/Peuples et Ethnies/Gobelins/Grandspiquants.md",
-    "RP/Peuples et Ethnies/Gobelins/Sombre crochets.md",
-    "RP/Peuples et Ethnies/Gobelins/Coureurs de recif.md",
-    "RP/Peuples et Ethnies/Gobelins/Sifflecalmars.md",
-    "RP/Lieux/Eau/Îles/Refuge de Sai Riang.md",
-    "RP/Lieux/Eau/Îles/Îlot de Fernlat.md",
-    "RP/Lieux/Eau/Îles/Île de l’Achèvement.md",
-    "RP/Lieux/Eau/Îles/Atoll de Bhudrek.md",
-    "RP/Lieux/Eau/Îles/Banc de la tempête.md",
-    "RP/Lieux/Eau/Îles/Banc de la tempete.md",
-    "RP/Lieux/Eau/Îles/Assiette de Darguro.md",
-    "RP/Lieux/Régions/Chaînes.md",
-    "RP/Lieux/Lieux d'intérêt/Tourbillon des cécaëlias.md",
+    "RP/Organisations/Conseil des Pirates.md",
+    "Runelords/PNJs/Aldern Ganrenard.md",
+    "RP/Lieux/Eau/Mers/Baies-Golfes/Détroit d'Aashaq.md",
+    "RP/Lieux/Eau/Mers/Baies-Golfes/Détroit de Balthus.md",
+    "RP/Lieux/Eau/Mers/Baies-Golfes/Baie du Danger.md",
+    "RP/Lieux/Eau/Mers/Baies-Golfes/Baie du Conquérant.md",
+    "RP/Lieux/Eau/Mers/Baies-Golfes/Crique de Mgange.md",
+    "RP/Lieux/Eau/Mers/Baies-Golfes/Crique du Cougar.md",
+    "RP/Lieux/Villes/Zhenbarghua.md",
+    "RP/Lieux/Villes/Zeibo.md",
+    "RP/Lieux/Villes/Wispil.md",
+    "RP/Lieux/Villes/Wartle.md",
+    "RP/Lieux/Villes/Vierge-Lac.md",
+    "RP/Lieux/Villes/Vilebouge.md",
+    "Shackles/Vaisseaux/Gourdin Sanglant.md",
+    "RP/Lieux/Villes/Vezhnu.md",
+    "RP/Lieux/Villes/Tyvas-Devas.md",
+    "RP/Lieux/Villes/Troneblanc.md",
+    "RP/Lieux/Villes/Tête de bouc.md",
+    "RP/Lieux/Eau/Îles/Baie de Mgange.md",
+    "RP/Lieux/Villes/Tamran.md",
+    "RP/Lieux/Villes/Sirathu.md",
+    "RP/Lieux/Villes/Roc enlisé.md",
+    "RP/Lieux/Villes/Robu.md",
+    "RP/Lieux/Villes/Rhum au beurre.md",
     "RP/Lieux/Villes/Reine Bes.md",
-    "RP/Lieux/Eau/Îles/Trône de Besmara.md",
-    "RP/Lieux/Eau/Îles/Île Sacrée.md",
     "RP/Concepts/Cultes",
     "RP/Ressources/Potions",
     "RP/Lieux/Villes/Port-Peril",

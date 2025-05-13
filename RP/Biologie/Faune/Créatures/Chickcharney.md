@@ -1,0 +1,8 @@
+Cet oiseau à la laideur presque comique ressemble à un hibou crasseux perché sur les longues pattes disgracieuses d’une cigogne. Il a des yeux noirs perçants et pousse des cris désagréables. Un chickcharney mesure 90 centimètres pour 25 kilos.
+
+Les explorateurs chélaxiens ont rencontré cet étrange oiseau magique lors de leurs premiers voyages dans les [[Chaînes]]. Au départ, ils se sont moqués de cette créature à l’apparence disgracieuse et à la démarche maladroite, mais ils se sont rapidement rendu compte qu’il ne fallait pas prendre cet oiseau à la légère. Le chickcharney peut offrir un peu de chance à ceux qu’il juge dignes de son cadeau, mais il lui suffit d’égratigner les individus qu’il méprise d’un coup de bec ou de griffe pour sceller leur destin, comme c’est arrivé à d’innombrables marins imprudents.
+
+Le chickcharney est d’un naturel curieux et confiant et s’approche volontiers des humanoïdes qui ne le menacent pas. Il lui arrive même de les accompagner pendant un temps et d’abandonner son nid sans protection s’il n’a pas d’œuf ni de compagne. Cependant, ce sont des créatures capricieuses qui provoquent le chaos autour des individus qui les provoquent, se montrent hostiles ou impolis.
+Les chickcharneys protègent férocement leurs œufs et leurs petits car les prédateurs et les humanoïdes cherchent avidement à s’en emparer. On dit que la coquilles de ces œufs possède des propriétés alchimiques servant dans de nombreuses formules et beaucoup d’alchimistes sont prêts à débourser des sommes exorbitantes pour des spécimens intacts.
+
+Quelques pirates des Chaînes persistent à dire que rencontrer un chickcharney porte chance mais ils sont bien plus nombreux à éviter soigneusement d’approcher ces oiseaux grincheux au caractère changeant.

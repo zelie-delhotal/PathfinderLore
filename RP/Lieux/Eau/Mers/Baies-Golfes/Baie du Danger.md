@@ -1,0 +1,1 @@
+La Baie du Danger est une baie de l'[[Océan Arcadien]] abritant la capitale des [[Chaînes]], [[Port-Péril]].

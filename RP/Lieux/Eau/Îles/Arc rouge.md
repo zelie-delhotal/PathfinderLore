@@ -1,3 +1,3 @@
-L’Arc rouge est une île barrière entre l'[[Île du Requin]] et l'[[Île de Nalt]].
+L’Arc rouge est une île barrière entre l'[[Île du Requin]] et l'[[Île de Nalt]], dans les [[Chaînes]].
 
 Elle abrite de violents végépygmées. Ces indigènes émergent de leurs cavernes pour attaquer tous les bateaux qui osent passer par le détroit voisin. Ils poussent de curieux cris cliquetants ravis alors qu’ils obligent les équipages imprudents à se rapprocher du vortex tourbillonnant qui rugit sous la chute du Tourbillon, de l’autre côté du détroit.
