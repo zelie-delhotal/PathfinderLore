@@ -1,0 +1,6 @@
+L'oeil d'Abendego est un cyclone gigantesque qui fait rage dans l'[[Océan Arcadien]], au nord des [[Chaînes]].
+Avant la mort d’Aroden, cette imposante étendue d’eau relativement calme s’appelait le
+golfe d’Abendégo. Il y a un peu plus d’un siècle, un puissant ouragan, apparemment éternel, naquit dans le golfe. Depuis, cette région a été rebaptisée l’œil d’Abendégo car les vagues et les vents de cet ouragan permanent sont la caractéristique dominante du pays, et la plus dangereuse.
+Quelques capitaines, aussi courageux que désespérés, naviguent en bordure de l’œil, mais aucun n’a réussi à s’enfoncer dans ses profondeurs. Quelques recherches magiques ont confirmé qu’il existe une zone de calme au centre de l’ouragan et que des débris et des épaves s’y amoncellent, mais la forte concentration de morts-vivants, de navires fantômes, d’étranges monstres marins et de puissants élémentaires d’air rendent ce genre d’expériences au mieux dangereuses. Comment l’œil s’est-il formé, voilà un mystère qui ne sera probablement jamais résolu.
+
+Il s'agit d'une saturation elementaire d'air.

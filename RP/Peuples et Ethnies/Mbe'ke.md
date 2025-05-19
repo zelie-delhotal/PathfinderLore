@@ -1,0 +1,1 @@
+Les mbe'ke sont des nains de surface des [[Hautes terres de Terwa]]. Ils ont generalement la peau noire et des cheveux noirs boucles. Contrairement aux autres nains, beaucoup d'entre eux rasent leur barbe et gardent les cheveux courts, pour eviter que les nombreux insectes du Mwangi s'y accrochent.

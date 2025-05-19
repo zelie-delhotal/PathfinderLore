@@ -1,2 +1,3 @@
-Océan à l'ouest de l'[[Avistan]] et du [[Garund]]
-Berceau de la civilisation Azlante, désormais éteinte.
+Le vaste océan arcadien entoure le continent insulaire azlant. À l’est, il longe les côtes de
+l’[[Avistan]] et du [[Garund]], de la Varisie au nord jusqu’à la corne de Droon au sud du Garund.
+L’océan Arcadien n’est pas le plus grand de Golarion mais c’est sûrement le plus vaste qui soit directement relié à la mer Intérieure. Quand on s’approche de l’Azlant, au centre de cet océan, les ruines submergées de l’ancien empire se font plus fréquentes. Ailleurs, de vastes cités souterraines peuplées d’elfes aquatiques, d’hommes-poissons et de sahuagins ainsi que, dans les zones les plus profondes, des restes de villes aboleths, attendent que quelqu’un les découvre.

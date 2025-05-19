@@ -1,2 +1,2 @@
-Principale étendue d'eau douce d'[[Avistan]].
-Borde les nations du [[Kyonin]], [[Druma]], [[Gravelands]], [[Molthune]], [[Nirmathas]], [[Razmiran]] et [[Ustalav]].
+Le lac Encarthan fait partie des étendues d’eau les plus vastes et les plus utilisées de l’[[Avistan]]. Il relie la [[Druma]], le [[Kyonin]], [[Dernier-Rempart]], le [[Molthune]], le [[Nirmathas]], le [[Razmiran]] et l’[[Ustalav]] par une ligne côtière continue.
+Le lac abrite une multitude de créatures, des nombreux monstres lacustres aux merrows en passant par les scrags et des êtres encore plus étranges. Le plus grand mystère du lac se trouve en son centre, là où se dresse l’inquiétante île de la Terreur. On dit que c’est là qu’Aroden infligea une blessure mortelle à Tar-Baphon, le roi-magicien, en 896 AR, et elle doit son nom à la foule de morts-vivants, de monstruosités de cauchemars et de violentes tempêtes qui hantent ses rives.

@@ -1,2 +1,5 @@
 Mer située entre l'[[Avistan]] au nord et le [[Garund]] au sud.
-Elle communique à la fois avec l'[[Océan Arcadien]] et l'[[Océan Obari]].
+Elle communique à la fois avec l'[[Océan Arcadien]] et l'[[Océan Iobarien]].
+L’étendue d’eau la plus importante de la région est celle qui lui a donné son nom : la mer Intérieure.
+Malgré cela, c’est aussi la plus jeune mer de la zone car avant la Chute, avant que l’étrange roche que nous appelons la [[Pierre-étoile]] ne tombe sur Golarion, les continents de l’Avistan
+et du Garund étaient reliés par un pont de terre. La violence de la Chute créa un immense cratère circulaire et envoya de puissantes ondes de choc le long de la ligne de partage qui s’écroula en majorité et laissa les eaux de l’océan Arcadien passer à l’est. Aujourd’hui, la mer Intérieure partage ses côtes avec les nations les plus puissantes de la région et sert de route commerciale ou de zone de guerre, au gré des fluctuations politiques.

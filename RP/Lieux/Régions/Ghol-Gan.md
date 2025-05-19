@@ -1,0 +1,4 @@
+Les ruines des gigantesques ziggourats blancs du Ghol-Gan se retrouvent partout dans les [[Chaînes]], le sud des [[Terres inondées]] et une partie de l'[[Étendue du Mwangi]].
+Si on en croit les runes et dessins effaces par le temps sur les tours du Ghol-Gan et les temples inondes, leurs batisseurs seraient des mammouths et de violents humanoides cyclopeens ayant d'abord venere le soleil et la lune avant de se tourner vers d'infames dieux aux origines mysterieuses. Les habitants de la region etaient habitues aux sacrifices frequents et au rites cannibales.
+Obsedes par les visions oraculaires, les cyclopes du Ghol-Gan se sont inspires de leurs pouvoirs innes et divins pour guider leur empire vers la richesse et la gloire.
+Ce sont cependant ces memes visions qui ont cause leur perte, et il ne reste aujourd'hui du royaume effondre que quelques géants dégénérés et des ruines maudites la ou se tenaient autrefois des oeuvres d'architecture gigantesques.

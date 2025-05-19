@@ -1,1 +1,3 @@
 Mer au nord ouest de la [[Varisie]].
+La mer de Vapeur, dont le nord-est souvent pris dans les glaces pendant l’hiver, occupe la limite septentrionale de l’[[Océan Arcadien]] et le protège des rudes côtes de la Couronne du Monde. Ses véritables frontières dépendent des courants saisonniers, mais on admet généralement que l’archipel de Fer et l’île-état d’Herméa se trouvent à l’intérieur.
+Beaucoup d’érudits considèrent la mer de Vapeur comme une portion de l’océan Arcadien.

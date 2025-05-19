@@ -1,1 +1,0 @@
-océan entre le [[Garund]] et le [[Casmaron]]

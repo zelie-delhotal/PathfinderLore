@@ -1,0 +1,1 @@
+Commandante cyclope du [[Ghol-Gan]], en grande partie responsable de la chute des hommes-serpents.

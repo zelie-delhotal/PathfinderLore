@@ -1,1 +1,3 @@
 Guilde d'assassins vénérant [[Achaékek]]
+Ce sont les assassins les plus efficaces de Golarion, extrêmement efficaces pour trouver leurs cibles, les tuer et s'assurer qu'elles ne reviennent pas. Les mantes rouges semblent avoir une connaissance surnaturelle des affronts faits a celles et ceux autour d'eux et approchent bien souvent leurs clients avant que ceux-ci savent qu'ils ont besoin d'un assassin.
+Une mante rouge agissant a decouvert porte une tenue de cuir rouge, un masque insectoide et manie deux sabres denteles.

@@ -1,3 +1,3 @@
-Le refuge de Sai Riang est une petite ile des [[Chaînes]] a la pointe ouest de l'[[Île de Motaku]].
+Le refuge de Sai Riang est une petite île des [[Chaînes]] a la pointe ouest de l'[[Île de Motaku]].
 Le pirate tian-shu Sai Riang (humain (f ) guerrier 3/moine 5) a abandonné la vie de pirate depuis longtemps et fondé un monastère sur ces terres, un endroit où les boucaniers lassés de leur vie libertine peuvent endosser une bure et rejoindre le curieux ordre du Vide infini. On dit que l’abbaye a été construite avec des pierres calcaires tirées de ruines du Ghol-Gan et que les quelques soixante-dix moines contemplatifs du Refuge s’occupent des vignobles, des jardins et des moutons de l’île et mènent une existence paisible qui contraste fortement avec leur ancien mode de vie de pirate.
 Évidemment, de nombreux cyniques disent que Sai est rusée et a élaboré une arnaque complexe, par contre, aucun n’a encore deviné de quoi il s’agissait.

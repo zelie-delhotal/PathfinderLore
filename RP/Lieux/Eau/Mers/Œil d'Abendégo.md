@@ -1,1 +1,0 @@
-L'oeil d'Abendego est un cyclone gigantesque qui fait rage dans l'[[Océan Obari]], au nord des [[Chaînes]]

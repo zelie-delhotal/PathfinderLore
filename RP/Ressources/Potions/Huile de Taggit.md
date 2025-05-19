@@ -1,1 +1,0 @@
-Poison au léger gout de muscade rendant sa victime inconsciente pendant 1 a 3h.

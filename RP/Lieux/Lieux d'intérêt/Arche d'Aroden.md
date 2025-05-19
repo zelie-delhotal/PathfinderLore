@@ -1,0 +1,2 @@
+Ce pont monolithique en ruine surplombe le détroit d’Aroden qui sépare l’[[Avistan]] du [[Garund]]. Cette arche s’élève jusqu’à une trentaine de mètres au-dessus du détroit et s’étend sur plus de vingt-quatre kilomètres pour relier le [[Chéliax]] au nord et au [[Rahadoum]], au sud.
+Le Chéliax contrôle une étroite bande de terre de l’autre côté de la mer Intérieure, au grand dam du Rahadoum. À peu près un tiers de cette immense et ancienne construction s’est effondrée, ce qui la rend inutilisable en tant que voie de déplacement terrestre.

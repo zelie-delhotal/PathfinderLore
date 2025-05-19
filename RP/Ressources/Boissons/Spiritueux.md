@@ -1,0 +1,22 @@
+- Absinthe
+- Anishani
+- Arrack
+- Liqueur de Bagog
+- Baijiu
+- Grog de tourbe
+- Brandy
+- Liqueur de Mais
+- Trace de Dague
+- Grog d'engrenages
+- Gin
+- Alcool de grain
+- Lait de Mulberry
+- Mulue
+- Mupute
+- Penj
+- Poitin
+- Rhums
+- Vodka
+- Whisky
+- Vjarik
+- Gnole d'hiver de Waldsby
